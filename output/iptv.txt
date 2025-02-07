@@ -1,5 +1,5 @@
 央视频道,#genre#
-CCTV1,http://60.29.124.66:6080/hls/12/index.m3u8
+CCTV1haha,http://60.29.124.66:6080/hls/12/index.m3u8
 CCTV1,http://123.182.60.29:9002/hls/1/index.m3u8
 CCTV1,http://219.159.194.213:8181/tsfile/live/1107_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1,http://218.88.97.149:808/hls/1/index.m3u8
