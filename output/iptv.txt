@@ -1,4 +1,4 @@
-央视频道,#genre#
+2央视频道,#genre#
 CCTV1,http://z.b.bkpcp.top/m.php?id=cctv1
 CCTV1,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
 CCTV1,http://59.39.89.130:60901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -569,32 +569,6 @@ CHC电影,http://220.249.114.102:9901/tsfile/live/1015_1.m3u8?key=txiptv&playliv
 超级体育,http://ct.370829.xyz:35455/itv/1000000001000009601.m3u8?cdn=ystenlive
 纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=291&time=20240926215313&ip=111.229.253.40
 
-🈳无结果频道,#genre#
-山东文旅,url
-周星驰,url
-AMC电影,url
-重温经典,url
-星空卫视,url
-龙华电影,url
-靖天映画,url
-广东少儿,url
-浙江少儿,url
-内蒙古少儿,url
-南京少儿,url
-济南少儿,url
-深圳少儿,url
-福州少儿,url
-福建少儿,url
-黑龙江少儿,url
-风云足球,url
-中国足球风云,url
-赛事最经典,url
-精品体育,url
-广东体育,url
-五大联赛经典,url
-体坛名栏汇,url
-咪咕24小时体育台,url
-掼蛋精英赛,url
 
 🕘️更新时间,#genre#
 2025-02-12 20:33:52,http://z.b.bkpcp.top/m.php?id=cctv1
