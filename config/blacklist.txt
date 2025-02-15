@@ -1,4 +1,4 @@
-# 这是接口黑名单列表，符合关键字的接口将被拦截，一个关键字一行
+2# 这是接口黑名单列表，符合关键字的接口将被拦截，一个关键字一行
 # This is the interface blacklist list, the interface matching the keyword will be blocked, one keyword line
 epg.pw
 skype.serv00.net
@@ -88,7 +88,8 @@ wouu.net:9977
 59.56.215.8:8000
 106.46.147.140:8000
 59.173.243.210:9901
-1b6467f415.iok.la:9931udp
+1b6467f415.iok.la:9931
+php.jdshipin.com:8880
 58.55.58.145:808
 27.185.1.27:8092
 101.19.151.75:808
@@ -221,3 +222,4 @@ kkk.jjjj.jiduo.me
 113.220.233.43:9999
 219.154.241.188:9901
 113.220.233.43:9999
+113.57.93.165:9900
