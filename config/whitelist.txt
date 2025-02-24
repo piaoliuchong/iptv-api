@@ -1,5 +1,4 @@
 #白名单
-#cdn5.163189.xyz
-#rthktv33-live.akamaized.net
-123.254.110.101:5000
-113.25.252.226:9901
+cdn5.163189.xyz
+rthktv33-live.akamaized.net
+123.254.110.101:50001
