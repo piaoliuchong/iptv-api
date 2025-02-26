@@ -1,3 +1,6 @@
 35455
 ottrrs.hl.chinamobile.com
 www.freetv.top
+udp
+rtp
+otttv.bj.chinamobile.com
