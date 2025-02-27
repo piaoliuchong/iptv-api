@@ -1,7 +1,13 @@
 #35455
 ottrrs.hl.chinamobile.com
 www.freetv.top
+/udp/
+/rtp/
 udp
 rtp
 otttv.bj.chinamobile.com
+:35455/
+35355
+35455/
 :35455
+chinamobile.com
