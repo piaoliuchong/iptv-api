@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-04-05 21:07:20,https://cdn5.163189.xyz/live/cctv1/stream.m3u8
+2025-04-06 18:35:16,https://cdn5.163189.xyz/live/cctv1/stream.m3u8
 
 央视频道,#genre#
 CCTV1,https://cdn5.163189.xyz/live/cctv1/stream.m3u8
@@ -578,6 +578,7 @@ CCTV17,http://tvbox6.com/tv/bfgd.php?id=204
 东南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8
 东南卫视,http://alvin.ergotron.net:8000/udp/239.77.1.104:5146
 东南卫视,http://webmail.axxe.top:4022/rtp/239.3.1.156:8148
+东南卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
 甘肃卫视,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226545/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EPxObabIs3mLyPmSf2HHtqQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNBE3K16ZfzYGIqbP6z6cGJ%2CEND
 甘肃卫视,http://yc.myds.me:35455/itv/5000000011000031121.m3u8?cdn=bestzb
 甘肃卫视,https://hls.gstv.com.cn/skt649/w0w7k2.m3u8
