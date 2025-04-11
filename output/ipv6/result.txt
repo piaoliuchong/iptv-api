@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-04-11 08:59:01,https://cdn5.163189.xyz/live/cctv1/stream.m3u8
+2025-04-11 18:33:38,https://cdn5.163189.xyz/live/cctv1/stream.m3u8
 
 央视频道,#genre#
 CCTV1,https://cdn5.163189.xyz/live/cctv1/stream.m3u8
@@ -140,6 +140,7 @@ CCTV5,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
 CCTV5,http://alvin.ergotron.net:8000/udp/239.77.0.170:5146
 CCTV5,http://lu.wqwqwq.sbs/itv/1000000005000265005.m3u8?cdn=ystenlive
 CCTV5,http://[2409:8087:1a0a:df::404b]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226019/index.m3u8
+CCTV5,https://live.goodiptv.club/api/cqyx.php?id=cctv5HD
 CCTV6,http://119.91.33.253/migu.php?id=cctv6
 CCTV6,http://ttkx.cc:1380/653哈哈/mg9.php?id=cctv6
 CCTV6,http://kxrj.site:64325/86/mg.php?id=cctv6
@@ -1582,6 +1583,7 @@ AMC电影,https://tv.iill.top/litv/4gtv-4gtv017
 魅力足球,http://z.b.bkpcp.top/m.php?id=mlzq
 风云足球,http://[2409:8087:7001:20:2::3]/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
 风云足球,https://epg.pw/stream/6d7bf281e3d739806a73f5373acaa6e01988ec9739f5ac1355ce54b47a928472.m3u8
+风云足球,https://live.goodiptv.club/api/yqgd.php?id=fyzq
 劲爆体育,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=jbty
 劲爆体育,http://211.101.234.24:866/aishang/migu.php/migu.php?id=jbty
 劲爆体育,http://php.jdshipin.com/itv6s.php?cid=hnbblive&id=2000000002000000008
@@ -1590,6 +1592,7 @@ AMC电影,https://tv.iill.top/litv/4gtv-4gtv017
 劲爆体育,http://z.b.bkpcp.top/m.php?id=jbty
 劲爆体育,http://[2409:8087:5e01:24::8]:6610/000000001000/2000000002000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000008&IASHttpSessionId=OTT19019320240419154124000281
 劲爆体育,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000008&IASHttpSessionId=OTT19019320240419154124000281
+劲爆体育,https://live.goodiptv.club/api/yqgd.php?id=jbtyhd
 哒啵赛事,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226938/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ErjVvYM0ZqthE-XIiqeoM2g%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 精品体育,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225674/index.m3u8
 精品体育,http://[2409:8087:74d9:21::6]:80/270000001128/9900000102/index.m3u8
