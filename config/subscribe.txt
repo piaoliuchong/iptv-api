@@ -1,11 +1,10 @@
 # 这是订阅源列表，每行一个订阅地址
 # This is a list of subscription sources, with one subscription address per line
 
-https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt
+
 https://raw.githubusercontent.com/Guovin/iptv-database/master/result.txt
 https://live.zbds.top/tv/iptv4.txt
 https://live.iptv365.org/live.txt
-https://raw.githubusercontent.com/ssili126/tv/refs/heads/main/itvlist.txt
 https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/refs/heads/main/live.txt
 https://raw.githubusercontent.com/lalifeier/IPTV/refs/heads/main/txt/IPTV.txt
 https://raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv4.txt
