@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-05-01 18:36:51,https://cdn5.163189.xyz/live/cctv1/stream.m3u8
+2025-05-02 18:33:16,https://cdn5.163189.xyz/live/cctv1/stream.m3u8
 
 央视频道,#genre#
 CCTV1,https://cdn5.163189.xyz/live/cctv1/stream.m3u8
@@ -37,6 +37,7 @@ CCTV1,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227262/index.m3u8
 CCTV1,http://tvh.990066.xyz/stream/channelid/267738118?profile=pass
 CCTV1,http://tv.scjyhd.com:4022/udp/239.93.0.184:5140
 CCTV1,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226338/1.m3u8?
+CCTV1,https://smart.pendy.dpdns.org/Smart.php?id=cctv1
 CCTV2,http://119.91.33.253/migu.php?id=cctv2
 CCTV2,http://ttkx.cc:1380/653哈哈/mg9.php?id=cctv2
 CCTV2,http://kxrj.site:64325/86/mg.php?id=cctv2
@@ -73,6 +74,7 @@ CCTV2,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227165/index.m3u8
 CCTV2,http://tvh.990066.xyz/stream/channelid/1667775686?profile=pass
 CCTV2,http://tv.scjyhd.com:4022/udp/239.11.0.108:5140
 CCTV2,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226230/1.m3u8?
+CCTV2,https://smart.pendy.dpdns.org/Smart.php?id=cctv2
 CCTV3,http://119.91.33.253/migu.php?id=cctv3
 CCTV3,http://ttkx.cc:1380/653哈哈/mg9.php?id=cctv3
 CCTV3,http://kxrj.site:64325/86/mg.php?id=cctv3
@@ -104,6 +106,7 @@ CCTV3,http://[2409:8087:74f0:22::4]:6410/270000001111/1110000303/index.m3u8?chan
 CCTV3,http://tvh.990066.xyz/stream/channelid/239163808?profile=pass
 CCTV3,http://tv.scjyhd.com:4022/udp/239.11.0.101:5140
 CCTV3,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226456/1.m3u8?
+CCTV3,https://smart.pendy.dpdns.org/Smart.php?id=cctv3
 CCTV4,http://119.91.33.253/migu.php?id=cctv4
 CCTV4,http://ttkx.cc:1380/653哈哈/mg9.php?id=cctv4
 CCTV4,http://kxrj.site:64325/86/mg.php?id=cctv4
@@ -139,6 +142,7 @@ CCTV4,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227235/index.m3u8
 CCTV4,http://tvh.990066.xyz/stream/channelid/56105852?profile=pass
 CCTV4,http://tv.scjyhd.com:4022/udp/239.93.1.105:5140
 CCTV4,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226335/1.m3u8?
+CCTV4,https://smart.pendy.dpdns.org/Smart.php?id=Cctv4
 CCTV5,http://119.91.33.253/migu.php?id=cctv5
 CCTV5,http://ttkx.cc:1380/653哈哈/mg9.php?id=cctv5
 CCTV5,http://kxrj.site:64325/86/mg.php?id=cctv5
@@ -176,6 +180,7 @@ CCTV5,http://tvh.990066.xyz/stream/channelid/1808923791?profile=pass
 CCTV5,http://tv.scjyhd.com:4022/udp/239.11.0.100:5140
 CCTV5,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226454/1.m3u8?
 CCTV5,https://ldcctvwbcdcnc.v.wscdns.com/ldcctvwbcd/cdrmldcctv5plus_1_720P/playlist.m3u8?wsApp=HLS
+CCTV5,https://smart.pendy.dpdns.org/Smart.php?id=cctv5
 CCTV6,http://119.91.33.253/migu.php?id=cctv6
 CCTV6,http://ttkx.cc:1380/653哈哈/mg9.php?id=cctv6
 CCTV6,http://kxrj.site:64325/86/mg.php?id=cctv6
@@ -211,6 +216,7 @@ CCTV6,http://[2409:8087:74f0:22::4]:6410/270000001111/1110000307/index.m3u8?chan
 CCTV6,http://tvh.990066.xyz/stream/channelid/891747302?profile=pass
 CCTV6,http://tv.scjyhd.com:4022/udp/239.11.0.102:5140
 CCTV6,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226453/1.m3u8?
+CCTV6,https://smart.pendy.dpdns.org/Smart.php?id=cctv6
 CCTV7,http://119.91.33.253/migu.php?id=cctv7
 CCTV7,http://ttkx.cc:1380/653哈哈/mg9.php?id=cctv7
 CCTV7,http://kxrj.site:64325/86/mg.php?id=cctv7
@@ -246,6 +252,7 @@ CCTV7,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227180/index.m3u8
 CCTV7,http://tvh.990066.xyz/stream/channelid/2071561975?profile=pass
 CCTV7,http://tv.scjyhd.com:4022/udp/239.11.0.110:5140
 CCTV7,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226234/1.m3u8?
+CCTV7,https://smart.pendy.dpdns.org/Smart.php?id=cctv7
 CCTV8,http://119.91.33.253/migu.php?id=cctv8
 CCTV8,http://ttkx.cc:1380/653哈哈/mg9.php?id=cctv8
 CCTV8,http://kxrj.site:64325/86/mg.php?id=cctv8
@@ -278,6 +285,7 @@ CCTV8,http://[2409:8087:74f0:22::9]:6410/270000001111/1110000309/index.m3u8?chan
 CCTV8,http://tvh.990066.xyz/stream/channelid/234758648?profile=pass
 CCTV8,http://tv.scjyhd.com:4022/udp/239.93.42.39:5140
 CCTV8,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226451/1.m3u8?
+CCTV8,https://smart.pendy.dpdns.org/Smart.php?id=cctv8hd
 CCTV9,http://119.91.33.253/migu.php?id=cctv9
 CCTV9,http://kxrj.site:64325/86/mg.php?id=cctv9
 CCTV9,http://dd.ddzb.fun/php/migu.php?id=cctv9
@@ -311,6 +319,7 @@ CCTV9,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227182/index.m3u8
 CCTV9,http://tvh.990066.xyz/stream/channelid/284019033?profile=pass
 CCTV9,http://tv.scjyhd.com:4022/udp/239.11.0.111:5140
 CCTV9,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226236/1.m3u8?
+CCTV9,https://smart.pendy.dpdns.org/Smart.php?id=cctv9hd
 CCTV10,http://119.91.33.253/migu.php?id=cctv10
 CCTV10,http://ttkx.cc:1380/653哈哈/mg9.php?id=cctv10
 CCTV10,http://kxrj.site:64325/86/mg.php?id=cctv10
@@ -346,6 +355,7 @@ CCTV10,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227169/index.m3u
 CCTV10,http://tvh.990066.xyz/stream/channelid/1309916585?profile=pass
 CCTV10,http://tv.scjyhd.com:4022/udp/239.11.0.112:5140
 CCTV10,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226449/1.m3u8?
+CCTV10,https://smart.pendy.dpdns.org/Smart.php?id=cctv10hd
 CCTV11,http://119.91.33.253/migu.php?id=cctv11
 CCTV11,http://ak6668768.zicp.io:8810/live1011.m3u8#sop://api/migu.php?id=667987558#vjms://23.237.115.18:8500:3502/live/cid=463
 CCTV11,http://kxrj.site:64325/86/mg.php?id=cctv11
@@ -380,6 +390,7 @@ CCTV11,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227171/index.m3u
 CCTV11,http://tvh.990066.xyz/stream/channelid/26802648?profile=pass
 CCTV11,http://tv.scjyhd.com:4022/udp/239.93.0.102:5140
 CCTV11,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226334/1.m3u8?
+CCTV11,https://smart.pendy.dpdns.org/Smart.php?id=cctv11
 CCTV12,http://58.210.168.86:10800/newlive/live/hls/11/live.m3u8#sop://api/migu.php?id=609017191
 CCTV12,http://119.91.33.253/migu.php?id=cctv12
 CCTV12,http://ttkx.cc:1380/653哈哈/mg9.php?id=cctv12
@@ -417,6 +428,7 @@ CCTV12,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227184/index.m3u
 CCTV12,http://tvh.990066.xyz/stream/channelid/1998196602?profile=pass
 CCTV12,http://tv.scjyhd.com:4022/udp/239.11.0.113:5140
 CCTV12,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226228/1.m3u8?
+CCTV12,https://smart.pendy.dpdns.org/Smart.php?id=cctv12
 CCTV13,http://119.91.33.253/migu.php?id=cctv13
 CCTV13,http://kxrj.site:64325/86/mg.php?id=cctv13
 CCTV13,http://dd.ddzb.fun/php/migu.php?id=cctv13
@@ -455,6 +467,7 @@ CCTV13,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227266/index.m3u
 CCTV13,http://tvh.990066.xyz/stream/channelid/881958927?profile=pass
 CCTV13,http://tv.scjyhd.com:4022/udp/239.93.0.66:5140
 CCTV13,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226316/1.m3u8?
+CCTV13,https://smart.pendy.dpdns.org/Smart.php?id=cctv13
 CCTV14,http://119.91.33.253/migu.php?id=cctv14
 CCTV14,http://kxrj.site:64325/86/mg.php?id=cctv14
 CCTV14,http://dd.ddzb.fun/php/migu.php?id=cctv14
@@ -488,6 +501,7 @@ CCTV14,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227173/index.m3u
 CCTV14,http://tvh.990066.xyz/stream/channelid/1711109433?profile=pass
 CCTV14,http://tv.scjyhd.com:4022/udp/239.11.0.114:5140
 CCTV14,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226229/1.m3u8?
+CCTV14,https://smart.pendy.dpdns.org/Smart.php?id=cctv14
 CCTV15,http://119.91.33.253/migu.php?id=cctv15
 CCTV15,http://ttkx.cc:1380/653哈哈/mg9.php?id=cctv15
 CCTV15,http://ak6668768.zicp.io:8814/live1015.m3u8#sop://api/migu.php?id=608807408#vjms://23.237.115.18:8500:3502/live/cid=465
@@ -523,6 +537,7 @@ CCTV15,http://tvh.990066.xyz/stream/channelid/1475130820?profile=pass
 CCTV15,http://tv.scjyhd.com:4022/udp/239.93.0.103:5140
 CCTV15,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226333/1.m3u8?
 CCTV15,http://iptv.huuc.edu.cn/hls/cctv15hd.m3u8
+CCTV15,https://smart.pendy.dpdns.org/Smart.php?id=cctv15
 CCTV16,http://kxrj.site:64325/86/mg.php?id=cctv16
 CCTV16,http://dd.ddzb.fun/php/migu.php?id=cctv16
 CCTV16,http://211.101.234.24:866/aishang/migu.php/migu.php?id=cctv16
@@ -668,6 +683,7 @@ CCTV17,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/2
 北京卫视,http://tv.scjyhd.com:4022/udp/239.93.0.180:5140
 北京卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226367/1.m3u8?
 北京卫视,http://dsj.motem.top:8880/bptv/10000100000000050000000003870776.m3u8
+北京卫视,https://smart.pendy.dpdns.org/Smart.php?id=beijing
 东方卫视,http://150.158.112.123/%E5%85%AC%E4%BC%97%E5%8F%B7~%E7%8E%89%E7%8E%89%E8%BD%AF%E4%BB%B6%E5%BA%93/mg.php?id=dfws
 东方卫视,http://dd.ddzb.fun/php/migu.php?id=dfws
 东方卫视,http://kxrj.site:64325/86/mg.php?id=dfws
@@ -757,6 +773,7 @@ CCTV17,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/2
 东南卫视,http://tv.scjyhd.com:4022/udp/239.93.0.42:5140
 东南卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226496/1.m3u8?
 东南卫视,http://dsj.motem.top:8880/bptv/10000100000000050000000003873473.m3u8
+东南卫视,https://smart.pendy.dpdns.org/Smart.php?id=fujian
 甘肃卫视,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=gsws
 甘肃卫视,http://dd.ddzb.fun/php/migu.php?id=gsws
 甘肃卫视,http://tvbox6.icu/tv/migu.php?id=gsws
@@ -871,6 +888,7 @@ CCTV17,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/2
 广西卫视,http://tv.scjyhd.com:4022/udp/239.93.42.46:5140
 广西卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226534/1.m3u8?
 广西卫视,http://dsj.motem.top:8880/bptv/10000100000000050000000003887394.m3u8
+广西卫视,https://smart.pendy.dpdns.org/Smart.php?id=guangxi
 贵州卫视,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=gzws
 贵州卫视,http://dd.ddzb.fun/php/migu.php?id=gzws
 贵州卫视,http://tvbox6.icu/tv/migu.php?id=gzws
@@ -1074,6 +1092,7 @@ CCTV17,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/2
 湖北卫视,http://kxrj.site:64325/86/mg.php?id=hubws
 湖北卫视,http://tvbox6.icu/tv/migu.php?id=hubws
 湖北卫视,http://hlsbkmgsplive.miguvideo.com/wd_r2/2018/ocn/hubeiwshd/2000/01.m3u8?&HlsSubType=&encrypt=
+湖北卫视,http://nctv.top/IDOEPpiryt/migu.php?id=hbws
 湖北卫视,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226240/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ExfU_RR0RQok0w_xd7h22CQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPVnDV2fEBphgm3TP7hAHBx%2CEND
 湖北卫视,http://iptv.huuc.edu.cn/hls/hbhd.m3u8
 湖北卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010057
@@ -1116,6 +1135,7 @@ CCTV17,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/2
 湖北卫视,http://tv.scjyhd.com:4022/udp/239.93.0.250:5140
 湖北卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226240/1.m3u8?
 湖北卫视,http://dsj.motem.top:8880/bptv/10000100000000050000000003873465.m3u8
+湖北卫视,https://smart.pendy.dpdns.org/Smart.php?id=hubei
 湖南卫视,http://dd.ddzb.fun/php/migu.php?id=hunws
 湖南卫视,http://tvbox6.icu/tv/migu.php?id=hunws
 湖南卫视,http://nctv.top/IDOEPpiryt/migu.php?id=hunws
@@ -1535,6 +1555,7 @@ CCTV17,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/2
 深圳卫视,http://tv.scjyhd.com:4022/udp/239.93.0.182:5140
 深圳卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226245/1.m3u8?
 深圳卫视,http://dsj.motem.top:8880/bptv/10000100000000050000000003873474.m3u8
+深圳卫视,https://smart.pendy.dpdns.org/Smart.php?id=shenzhen
 四川卫视,http://nctv.top/IDOEPpiryt/migu.php?id=scws
 四川卫视,http://iptv.huuc.edu.cn/hls/schd.m3u8
 四川卫视,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226338/index.m3u8
@@ -1836,6 +1857,7 @@ AMC电影,https://tv.iill.top/litv/4gtv-4gtv017
 龙华电影,https://tv.iill.top/litv/litv-longturn03
 龙华电影,https://cdn3.132.us.kg/live/lhdy/stream.m3u8
 龙华电影,https://cdn8.163189.xyz/live/lhdy/stream.m3u8
+龙华电影,https://smart.pendy.dpdns.org/Smart.php?id=xingwei_movie
 周星驰,https://live.iill.top/huya/11342412
 周星星,https://www.goodiptv.club/huya/11342412
 美丽中国说,http://hls.cntv.myhwcdn.cn/asp/hls/4000/0303000a/3/default/8cdd688b04e4495ba1635e218419d6f9/4000.m3u8
@@ -1972,6 +1994,7 @@ AMC电影,https://tv.iill.top/litv/4gtv-4gtv017
 超级体育,http://[2409:8087:74d9:21::6]:80/270000001128/9900000020/index.m3u8
 超级体育,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226232/1.m3u8?
 纬来体育,https://epg.pw/stream/8855a9936e37e608a0ec8a014cce1673dee9c5d68d560da376cc92e5edef2b25.m3u8
+纬来体育,https://smart.pendy.dpdns.org/Smart.php?id=videolandsport
 广东体育,http://php.jdshipin.com:8880/chudian.php?id=gdty
 广东体育,http://cdn2.163189.xyz/live/gdty/stream.m3u8
 广东体育,http://cdn2.132.us.kg/live/gdty/stream.m3u8
