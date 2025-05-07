@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-05-06 18:35:01,https://cdn5.163189.xyz/live/cctv1/stream.m3u8
+2025-05-07 18:34:51,https://cdn5.163189.xyz/live/cctv1/stream.m3u8
 
 央视频道,#genre#
 CCTV1,https://cdn5.163189.xyz/live/cctv1/stream.m3u8
@@ -148,6 +148,7 @@ CCTV4,http://tvh.990066.xyz/stream/channelid/56105852?profile=pass
 CCTV4,http://tv.scjyhd.com:4022/udp/239.93.1.105:5140
 CCTV4,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226335/1.m3u8?
 CCTV4,https://smart.pendy.dpdns.org/Smart.php?id=Cctv4
+CCTV4,http://goo.bkpcp.top/mg/cctv4o
 CCTV5,http://119.91.33.253/migu.php?id=cctv5
 CCTV5,http://ttkx.cc:1380/653哈哈/mg9.php?id=cctv5
 CCTV5,http://kxrj.site:64325/86/mg.php?id=cctv5
@@ -582,6 +583,7 @@ CCTV16,http://dsj.motem.top:8880/gaoma/cctv16.m3u8
 CCTV16,http://tvh.990066.xyz/stream/channelid/868562136?profile=pass
 CCTV16,http://tv.scjyhd.com:4022/udp/239.93.42.53:5140
 CCTV16,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226887/1.m3u8?
+CCTV16,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000016/index.m3u8
 CCTV17,http://119.91.33.253/migu.php?id=cctv17
 CCTV17,http://ttkx.cc:1380/653哈哈/mg9.php?id=cctv17
 CCTV17,http://kxrj.site:64325/86/mg.php?id=cctv17
