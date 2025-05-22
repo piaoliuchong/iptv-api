@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-05-21 18:27:04,https://cdn5.163189.xyz/live/cctv1/stream.m3u8
+2025-05-22 18:30:08,https://cdn5.163189.xyz/live/cctv1/stream.m3u8
 
 央视频道,#genre#
 CCTV1,https://cdn5.163189.xyz/live/cctv1/stream.m3u8
@@ -39,6 +39,7 @@ CCTV1,http://tvh.990066.xyz/stream/channelid/267738118?profile=pass
 CCTV1,http://tv.scjyhd.com:4022/udp/239.93.0.184:5140
 CCTV1,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226338/1.m3u8?
 CCTV1,https://smart.pendy.dpdns.org/Smart.php?id=cctv1
+CCTV1,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226737/1.m3u8
 CCTV2,http://119.91.33.253/migu.php?id=cctv2
 CCTV2,http://ttkx.cc:1380/653哈哈/mg9.php?id=cctv2
 CCTV2,http://kxrj.site:64325/86/mg.php?id=cctv2
@@ -77,6 +78,7 @@ CCTV2,http://tvh.990066.xyz/stream/channelid/1667775686?profile=pass
 CCTV2,http://tv.scjyhd.com:4022/udp/239.11.0.108:5140
 CCTV2,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226230/1.m3u8?
 CCTV2,https://smart.pendy.dpdns.org/Smart.php?id=cctv2
+CCTV2,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226739/1.m3u8
 CCTV3,http://119.91.33.253/migu.php?id=cctv3
 CCTV3,http://ttkx.cc:1380/653哈哈/mg9.php?id=cctv3
 CCTV3,http://kxrj.site:64325/86/mg.php?id=cctv3
@@ -494,6 +496,7 @@ CCTV13,http://tvh.990066.xyz/stream/channelid/881958927?profile=pass
 CCTV13,http://tv.scjyhd.com:4022/udp/239.93.0.66:5140
 CCTV13,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226316/1.m3u8?
 CCTV13,https://smart.pendy.dpdns.org/Smart.php?id=cctv13
+CCTV13,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226717/1.m3u8
 CCTV14,http://119.91.33.253/migu.php?id=cctv14
 CCTV14,http://kxrj.site:64325/86/mg.php?id=cctv14
 CCTV14,http://dd.ddzb.fun/php/migu.php?id=cctv14
@@ -1049,6 +1052,7 @@ CCTV17,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226660/1.m3u8
 河北卫视,http://tv.scjyhd.com:4022/udp/239.93.0.132:5140
 河北卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226507/1.m3u8?
 河北卫视,http://dsj.motem.top:8880/bptv/10000100000000050000000003873460.m3u8
+河北卫视,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226684/1.m3u8
 河南卫视,http://150.158.112.123/%E5%85%AC%E4%BC%97%E5%8F%B7~%E7%8E%89%E7%8E%89%E8%BD%AF%E4%BB%B6%E5%BA%93/mg.php?id=hnws
 河南卫视,http://211.101.234.24:866/aishang/migu.php/migu.php?id=hnws
 河南卫视,http://dd.ddzb.fun/php/migu.php?id=hnws
