@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-05-30 18:30:19,https://cdn5.163189.xyz/live/cctv1/stream.m3u8
+2025-05-31 18:26:10,https://cdn5.163189.xyz/live/cctv1/stream.m3u8
 
 央视频道,#genre#
 CCTV1,https://cdn5.163189.xyz/live/cctv1/stream.m3u8
