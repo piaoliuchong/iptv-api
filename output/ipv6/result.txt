@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-06-04 18:28:14,https://cdn5.163189.xyz/live/cctv1/stream.m3u8
+2025-06-05 18:30:17,https://cdn5.163189.xyz/live/cctv1/stream.m3u8
 
 央视频道,#genre#
 CCTV1,https://cdn5.163189.xyz/live/cctv1/stream.m3u8
@@ -1719,6 +1719,7 @@ CCTV17,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226660/1.m3u8
 西藏卫视,https://tv.bfsu.edu.cn/hls/xztv.m3u8
 西藏卫视,http://dsj.motem.top:8880/bptv/10000100000000050000000003887434.m3u8
 西藏卫视,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226710/1.m3u8
+西藏卫视,http://www.lysvc.cc/daili/xztv.php?id=0
 新疆卫视,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=xjws
 新疆卫视,http://dd.ddzb.fun/php/migu.php?id=xjws
 新疆卫视,http://tvbox6.icu/tv/migu.php?id=xjws
