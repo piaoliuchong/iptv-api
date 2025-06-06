@@ -1,7 +1,7 @@
 # 杩欐槸鎺ュ彛榛戝悕鍗曞垪琛紝绗﹀悎鍏抽敭瀛楃殑鎺ュ彛灏嗚鎷︽埅锛屼竴涓叧閿瓧涓€琛�
 # This is the interface blacklist list, the interface matching the keyword will be blocked, one keyword line
 35455
-utp
+udp
 rtp
 satellitepull.cnr.cn
 live.xmcdn.com
