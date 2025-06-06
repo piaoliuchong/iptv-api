@@ -64,4 +64,4 @@ api.olelive.com
 218.3.138.25:1111
 110.80.17.38:9901
 freetv
-rrsp://
+rtsp://
