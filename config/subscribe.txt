@@ -11,3 +11,5 @@ https://raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv4.txt
 https://raw.githubusercontent.com/yuanzl77/IPTV/master/live.txt
 #https://raw.githubusercontent.com/iptv_ipv4_live/refs/heads/main/live_ipv4.txt
 #https://raw.githubusercontent.com/snhydjd123/iptv/refs/heads/main/live.m3u
+
+https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/live.txt
