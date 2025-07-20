@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-07-19 18:27:31,http://119.91.33.253/migu.php?id=cctv1
+2025-07-20 18:30:01,http://119.91.33.253/migu.php?id=cctv1
 
 央视频道,#genre#
 CCTV1,http://119.91.33.253/migu.php?id=cctv1
@@ -260,6 +260,7 @@ CCTV6,http://[2409:8087:2001:20:2800:0:df6e:eb06]:80/wh7f454c46tw1744141582_1739
 CCTV6,http://[2409:8087:2001:20:2800:0:df6e:eb0e]:80/wh7f454c46tw2373117646_-823344172/ott.mobaibox.com/PLTV/3/224/3221227430/index.m3u8?icpid=3&RTS=1674386783&from=40&popid=40&hms_devid=2111&prioritypopid=40&vqe=3
 CCTV6,http://live.catvod.com/catvod.php?id=cctv6
 CCTV6,http://goo.bkpcp.top/mg/cctv6
+CCTV6,http://free.cnlive.club/channel/63f18811.m3u8
 CCTV7,http://119.91.33.253/migu.php?id=cctv7
 CCTV7,http://ttkx.cc:1380/653哈哈/mg9.php?id=cctv7
 CCTV7,http://kxrj.site:64325/86/mg.php?id=cctv7
@@ -573,7 +574,7 @@ CCTV14,https://smart.pendy.dpdns.org/Smart.php?id=cctv14
 CCTV14,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226645/1.m3u8
 CCTV14,https://tv.iill.top/migu/cctv14
 CCTV14,http://live.catvod.com/catvod.php?id=cctv14
-CCTV14,https://event.pull.hebtv.com/jishi/cp2.m3u8#rtsp://103.251.96.71/PLTV/88888888/224/3221225783/10000100000000060000000000726027_0.smil?icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;accountinfo=:20240213104135
+CCTV14,https://event.pull.hebtv.com/jishi/cp2.m3u8
 CCTV15,http://119.91.33.253/migu.php?id=cctv15
 CCTV15,http://ttkx.cc:1380/653哈哈/mg9.php?id=cctv15
 CCTV15,http://ak6668768.zicp.io:8814/live1015.m3u8#sop://api/migu.php?id=608807408#vjms://23.237.115.18:8500:3502/live/cid=465
@@ -2023,6 +2024,7 @@ AMC电影,https://tv.iill.top/litv/4gtv-4gtv017
 龙华电影,https://cdn3.132.us.kg/live/lhdy/stream.m3u8
 龙华电影,https://cdn8.163189.xyz/live/lhdy/stream.m3u8
 龙华电影,https://smart.pendy.dpdns.org/Smart.php?id=xingwei_movie
+龙华电影,http://free.cnlive.club/channel/n5e8ca809.m3u8
 周星驰,https://live.iill.top/huya/11342412
 周星驰,https://live.metshop.top/yy/1382736808
 周星星,https://www.goodiptv.club/huya/11342412
