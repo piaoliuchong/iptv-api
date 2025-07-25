@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-07-24 18:30:46,http://119.91.33.253/migu.php?id=cctv1
+2025-07-25 18:28:55,http://119.91.33.253/migu.php?id=cctv1
 
 央视频道,#genre#
 CCTV1,http://119.91.33.253/migu.php?id=cctv1
@@ -49,6 +49,7 @@ CCTV1,http://[2409:8087:2001:20:2800:0:df6e:eb08]:80/wh7f454c46tw1528000783_-231
 CCTV1,http://[2409:8087:2001:20:2800:0:df6e:eb12]:80/wh7f454c46tw3964691378_-587544707/ott.mobaibox.com/PLTV/3/224/3221227462/index.m3u8?icpid=3&RTS=1674379785&from=40&ocs=2_2409:8087:2004:20:2800:0:df6e:ec0d_80&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
 CCTV1,http://[2409:8087:2001:20:2800:0:df6e:eb14]:80/wh7f454c46tw3964515718_-284491133/ott.mobaibox.com/PLTV/3/224/3221227431/index.m3u8?icpid=3&RTS=1674379784&from=40&ocs=2_2409:8087:2004:20:2800:0:df6e:ec14_80&popid=40&hms_devid=2115&prioritypopid=40&vqe=3
 CCTV1,http://live.catvod.com/catvod.php?id=cctv1
+CCTV1,http://free.cnlive.club/channel/47cdbb52/index.m3u8?q=1753234122802
 CCTV2,http://119.91.33.253/migu.php?id=cctv2
 CCTV2,http://ttkx.cc:1380/653哈哈/mg9.php?id=cctv2
 CCTV2,http://kxrj.site:64325/86/mg.php?id=cctv2
@@ -260,7 +261,7 @@ CCTV6,http://[2409:8087:2001:20:2800:0:df6e:eb06]:80/wh7f454c46tw1744141582_1739
 CCTV6,http://[2409:8087:2001:20:2800:0:df6e:eb0e]:80/wh7f454c46tw2373117646_-823344172/ott.mobaibox.com/PLTV/3/224/3221227430/index.m3u8?icpid=3&RTS=1674386783&from=40&popid=40&hms_devid=2111&prioritypopid=40&vqe=3
 CCTV6,http://live.catvod.com/catvod.php?id=cctv6
 CCTV6,http://goo.bkpcp.top/mg/cctv6
-CCTV6,http://free.cnlive.club/channel/63f18811.m3u8
+CCTV6,http://free.cnlive.club/channel/47cedd7d/index.m3u8?q=1753234122802
 CCTV7,http://119.91.33.253/migu.php?id=cctv7
 CCTV7,http://ttkx.cc:1380/653哈哈/mg9.php?id=cctv7
 CCTV7,http://kxrj.site:64325/86/mg.php?id=cctv7
@@ -303,6 +304,7 @@ CCTV7,http://[2409:8087:2001:20:2800:0:df6e:eb07]:80/wh7f454c46tw1534664408_-189
 CCTV7,http://[2409:8087:2001:20:2800:0:df6e:eb0f]:80/wh7f454c46tw92895071_1833672570/ott.mobaibox.com/PLTV/3/224/3221227626/index.m3u8?icpid=3&RTS=1674380208&from=40&popid=40&hms_devid=2111&prioritypopid=40&vqe=3
 CCTV7,http://[2409:8087:2001:20:2800:0:df6e:eb12]:80/wh7f454c46tw1744742726_979409702/ott.mobaibox.com/PLTV/3/224/3221227690/index.m3u8?icpid=3&RTS=1674386155&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
 CCTV7,http://live.catvod.com/catvod.php?id=cctv7
+CCTV7,https://migu.188766.xyz/?migutoken=9904253d924c75858d52bce767e31602&id=CCTV7&pp=1
 CCTV8,http://119.91.33.253/migu.php?id=cctv8
 CCTV8,http://ttkx.cc:1380/653哈哈/mg9.php?id=cctv8
 CCTV8,http://kxrj.site:64325/86/mg.php?id=cctv8
@@ -496,6 +498,7 @@ CCTV12,https://smart.pendy.dpdns.org/Smart.php?id=cctv12
 CCTV12,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226723/1.m3u8
 CCTV12,https://tv.iill.top/migu/cctv12
 CCTV12,http://live.catvod.com/catvod.php?id=cctv12
+CCTV12,http://free.cnlive.club/channel/13604deb/index.m3u8?q=1753234122802
 CCTV13,http://119.91.33.253/migu.php?id=cctv13
 CCTV13,http://kxrj.site:64325/86/mg.php?id=cctv13
 CCTV13,http://dd.ddzb.fun/php/migu.php?id=cctv13
@@ -574,7 +577,7 @@ CCTV14,https://smart.pendy.dpdns.org/Smart.php?id=cctv14
 CCTV14,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226645/1.m3u8
 CCTV14,https://tv.iill.top/migu/cctv14
 CCTV14,http://live.catvod.com/catvod.php?id=cctv14
-CCTV14,https://event.pull.hebtv.com/jishi/cp2.m3u8
+CCTV14,https://event.pull.hebtv.com/jishi/cp2.m3u8#rtsp://103.251.96.71/PLTV/88888888/224/3221225783/10000100000000060000000000726027_0.smil?icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;accountinfo=:20240213104135
 CCTV15,http://119.91.33.253/migu.php?id=cctv15
 CCTV15,http://ttkx.cc:1380/653哈哈/mg9.php?id=cctv15
 CCTV15,http://ak6668768.zicp.io:8814/live1015.m3u8#sop://api/migu.php?id=608807408#vjms://23.237.115.18:8500:3502/live/cid=465
@@ -1424,6 +1427,7 @@ CCTV17,http://live.catvod.com/catvod.php?id=cctv17
 江西卫视,http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/wh7f454c46tw2488758368_-1947201691/ott.mobaibox.com/PLTV/3/224/3221228557/index.m3u8?icpid=3&RTS=1674459913&from=40&popid=40&hms_devid=2293&prioritypopid=40&vqe=3
 江西卫视,http://live.catvod.com/catvod.php?id=jxws
 江西卫视,https://tv.iill.top/migu/jxws
+江西卫视,https://migu.188766.xyz/?migutoken=c7471f7ef122991661d3674b04ed27e6&id=%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86&pp=1
 辽宁卫视,http://dd.ddzb.fun/php/migu.php?id=lnws
 辽宁卫视,http://tvbox6.icu/tv/migu.php?id=lnws
 辽宁卫视,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226488/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E0dsu8dOBmGQQO7fSrvySew%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNN4l9PIxeExdzsncIMJiPZb%2CEND
@@ -1662,6 +1666,7 @@ CCTV17,http://live.catvod.com/catvod.php?id=cctv17
 陕西卫视,https://epg.pw/stream/f329709f6f2f437e06a426ffc1a1aa9c1459f09aa35b76d24c9a104450f10e08.m3u8
 陕西卫视,http://live.catvod.com/catvod.php?id=sxws
 陕西卫视,https://tv.iill.top/migu/sxws
+陕西卫视,https://migu.188766.xyz/?migutoken=6c1651f4bfb19ef3318df9940f5030f0&id=%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86&pp=1
 深圳卫视,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226245/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EFvxuZ6Kfg6J67sArVd0LuA%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNO9YxM-C8gPFvQRk47-h2ok%2CEND
 深圳卫视,http://z.b.bkpcp.top/m.php?id=szws
 深圳卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010068
@@ -1987,6 +1992,7 @@ CHC动作电影,http://sport.pendy.dpdns.org/migu/644368714?token=BCDxUPC2aE0y0i
 CHC动作电影,https://tv.iill.top/migu/chcdz
 CHC动作电影,http://live.catvod.com/catvod.php?id=chcdz
 CHC动作电影,http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225555/index.m3u8
+CHC动作电影,https://migu.188766.xyz/?migutoken=a0f702525b38e0aae5cf651de2bda974&id=CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1&pp=1
 CHC家庭影院,http://gat.bkpcp.top/ymg.php?id=jtyy
 CHC家庭影院,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=chcjtdy
 CHC家庭影院,http://tvbox6.icu/tv/migu.php?id=chcjtdy
@@ -1999,10 +2005,12 @@ CHC家庭影院,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_c
 CHC家庭影院,http://sport.pendy.dpdns.org/migu/644368373?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 CHC家庭影院,https://tv.iill.top/migu/chcjt
 CHC家庭影院,http://live.catvod.com/catvod.php?id=chcjt
+CHC家庭影院,https://migu.188766.xyz/?migutoken=bea68c53620706661db8f95b3087464f&id=CHC%E5%AE%B6%E5%BA%AD%E5%BD%B1%E9%99%A2&pp=1
 CHC影迷电影,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002029/index.m3u8?IASHttpSessionId=
 CHC影迷电影,http://eastscreen.tv/ooooo.php?id=chchd
 CHC影迷电影,https://tv.iill.top/migu/chcym
 CHC影迷电影,http://live.catvod.com/catvod.php?id=chcym
+CHC影迷电影,https://migu.188766.xyz/?migutoken=cba3ea508f820fa23c15bc9ded5355f1&id=CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1&pp=1
 AMC电影,https://tv.iill.top/litv/4gtv-4gtv017
 黑莓电影,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010073
 黑莓电影,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225743/index.m3u8
@@ -2071,6 +2079,7 @@ AMC电影,https://tv.iill.top/litv/4gtv-4gtv017
 解说越哥说电影,https://live.metshop.top/huya/15894162
 解说阿斗说电影,http://cfss.cc/cdn/hy/13303478.flv
 解说阿斗说电影,https://live.metshop.top/huya/13303478
+解说阿翔说电影,https://live.metshop.top/huya/16868935
 解说阿良说剧,http://cfss.cc/cdn/hy/20488841.flv
 解说阿钙扒瞎,http://cfss.cc/cdn/hy/15978172.flv
 解说阿钙扒瞎,https://live.metshop.top/huya/15978172
