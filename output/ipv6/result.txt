@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-08-07 18:31:06,http://119.91.33.253/migu.php?id=cctv1
+2025-08-08 18:29:57,http://119.91.33.253/migu.php?id=cctv1
 
 央视频道,#genre#
 CCTV1,http://119.91.33.253/migu.php?id=cctv1
@@ -623,7 +623,7 @@ CCTV14,http://live.catvod.com/catvod.php?id=cctv14
 CCTV14,https://migu.188766.xyz/?migutoken=1cb5903f7801c89d2de368efe342aa87&id=CCTV14&pp=1
 CCTV14,http://bailudz.top:1236/111/hahahaha.php?id=cctv14
 CCTV14,https://tv-1.iill.top/migu/cctv14
-CCTV14,https://event.pull.hebtv.com/jishi/cp2.m3u8
+CCTV14,https://event.pull.hebtv.com/jishi/cp2.m3u8#rtsp://103.251.96.71/PLTV/88888888/224/3221225783/10000100000000060000000000726027_0.smil?icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;accountinfo=:20240213104135
 CCTV15,http://119.91.33.253/migu.php?id=cctv15
 CCTV15,http://ttkx.cc:1380/653哈哈/mg9.php?id=cctv15
 CCTV15,http://ak6668768.zicp.io:8814/live1015.m3u8#sop://api/migu.php?id=608807408#vjms://23.237.115.18:8500:3502/live/cid=465
@@ -924,6 +924,7 @@ CCTV17,https://migu.188766.xyz/?migutoken=909c87600ed8f428aba59a9451442c9b&id=CC
 东南卫视,http://bailudz.top:1236/111/hahahaha.php?id=dnws
 东南卫视,https://tv-1.iill.top/migu/dnws
 东南卫视,https://migu.188766.xyz/?migutoken=be8d0dce407f6cde99ea5e994738e102&id=dnwss&type=dy
+东南卫视,https://mursor.ottiptv.cc/migu/849116810.m3u8?migutoken=014b95a53095818f8ad2a30cc3d3f67aa4b109c10b94458b5cad53ac8361f27208aa7a7a66bebce7220d50e66d3f80b5e74206d6ac47309504139232b4b79c22918f04eba66a5404c48ca4767d
 甘肃卫视,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=gsws
 甘肃卫视,http://dd.ddzb.fun/php/migu.php?id=gsws
 甘肃卫视,http://tvbox6.icu/tv/migu.php?id=gsws
@@ -1261,6 +1262,7 @@ CCTV17,https://migu.188766.xyz/?migutoken=909c87600ed8f428aba59a9451442c9b&id=CC
 黑龙江卫视,https://345iptv.com/?act=play&token=581d915bd15340a0dd756aa8d0074892&tid=ws&id=11&p=0###WEB\\n
 黑龙江卫视,http://live.catvod.com/catvod.php?id=hljws
 黑龙江卫视,https://migu.188766.xyz/?migutoken=b1b005f2c5a381f46a1c9456e9b0d0e2&id=hljws&type=dy
+黑龙江卫视,https://live.v1.mk/api/bestv.php?id=hljwshd8m/8000000
 湖北卫视,http://dd.ddzb.fun/php/migu.php?id=hubws
 湖北卫视,http://kxrj.site:64325/86/mg.php?id=hubws
 湖北卫视,http://tvbox6.icu/tv/migu.php?id=hubws
@@ -2070,7 +2072,7 @@ CHC动作电影,http://z.b.bkpcp.top/m.php?id=dzdy CCTV1 综合
 CHC动作电影,http://goo.bkpcp.top/mg/dzdy
 CHC动作电影,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225661/index.m3u8
 CHC动作电影,http://[2409:8087:1a01:df::4021]:80/TVOD/88888888/224/3221225555/main.m3u8
-CHC动作电影,http://eastscreen.tv/ooooo.php?id=chcdz
+CHC动作电影,http://eastscreen.tv/ooooo.php?id=chcdz###HLS\\n
 CHC动作电影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380763222d00/index.m3u8?m3u8_level=2
 CHC动作电影,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002030/index.m3u8?IASHttpSessionId=
 CHC动作电影,http://data.3g.yy.com/live/hls/1382735573/1382735573
@@ -2086,7 +2088,7 @@ CHC家庭影院,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=chcjt
 CHC家庭影院,http://tvbox6.icu/tv/migu.php?id=chcjtdy
 CHC家庭影院,http://live.nctv.top/Jhsdat/migu.php?id=chcjtyy
 CHC家庭影院,http://goo.bkpcp.top/mg/jtyy
-CHC家庭影院,http://eastscreen.tv/ooooo.php?id=chcjt
+CHC家庭影院,http://eastscreen.tv/ooooo.php?id=chcjt###HLS\\n
 CHC家庭影院,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807601b19dd/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNRxu2SqX2RKsLT0S7AyQ8XopIVrD6IJGxdajeuKy4iZqZ4tkZuiEpwSRPszF6PIvg4
 CHC家庭影院,http://z.b.bkpcp.top/m.php?id=chcjtyy
 CHC家庭影院,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002028/index.m3u8?IASHttpSessionId=
