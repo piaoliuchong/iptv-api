@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-08-19 18:28:23,http://119.91.33.253/migu.php?id=cctv1
+2025-08-20 18:28:23,http://119.91.33.253/migu.php?id=cctv1
 
 央视频道,#genre#
 CCTV1,http://119.91.33.253/migu.php?id=cctv1
@@ -637,7 +637,7 @@ CCTV14,http://bailudz.top:1236/111/hahahaha.php?id=cctv14
 CCTV14,https://tv-1.iill.top/migu/cctv14
 CCTV14,http://free.cnlive.club/channel/n4fe8272c/index.m3u8?q=1754617188750
 CCTV14,https://mursor.ottiptv.cc/gptv/G_CCTV-14-CQ.m3u8
-CCTV14,https://event.pull.hebtv.com/jishi/cp2.m3u8#rtsp://103.251.96.71/PLTV/88888888/224/3221225783/10000100000000060000000000726027_0.smil?icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;accountinfo=:20240213104135
+CCTV14,https://event.pull.hebtv.com/jishi/cp2.m3u8
 CCTV15,http://119.91.33.253/migu.php?id=cctv15
 CCTV15,http://ttkx.cc:1380/653哈哈/mg9.php?id=cctv15
 CCTV15,http://ak6668768.zicp.io:8814/live1015.m3u8#sop://api/migu.php?id=608807408#vjms://23.237.115.18:8500:3502/live/cid=465
@@ -1847,6 +1847,7 @@ CCTV17,http://free.cnlive.club/channel/9e11396/index.m3u8?q=1754617188750
 四川卫视,http://live.catvod.com/catvod.php?id=scws
 四川卫视,https://migu.188766.xyz/?migutoken=c76812476289901c608bfdd7065ce7f6&id=scws&type=dy
 四川卫视,https://smart.pendy.dpdns.org/Smart.php?id=sichuan_twn
+四川卫视,https://piccpndks.v.kcdnvip.com/audio/sichuan_2/index.m3u8
 天津卫视,http://[2409:8087:1a01:df::4030]:80/TVOD/88888888/224/3221225972/main.m3u8
 天津卫视,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226459/index.m3u8
 天津卫视,http://[2409:8087:1a0a:df::404b]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226459/index.m3u8
