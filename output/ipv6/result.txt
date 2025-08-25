@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-08-23 18:24:54,http://119.91.33.253/migu.php?id=cctv1
+2025-08-25 18:28:10,http://119.91.33.253/migu.php?id=cctv1
 
 央视频道,#genre#
 CCTV1,http://119.91.33.253/migu.php?id=cctv1
@@ -637,7 +637,7 @@ CCTV14,http://bailudz.top:1236/111/hahahaha.php?id=cctv14
 CCTV14,https://tv-1.iill.top/migu/cctv14
 CCTV14,http://free.cnlive.club/channel/n4fe8272c/index.m3u8?q=1754617188750
 CCTV14,https://mursor.ottiptv.cc/gptv/G_CCTV-14-CQ.m3u8
-CCTV14,https://event.pull.hebtv.com/jishi/cp2.m3u8#rtsp://103.251.96.71/PLTV/88888888/224/3221225783/10000100000000060000000000726027_0.smil?icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;accountinfo=:20240213104135
+CCTV14,https://event.pull.hebtv.com/jishi/cp2.m3u8
 CCTV15,http://119.91.33.253/migu.php?id=cctv15
 CCTV15,http://ttkx.cc:1380/653哈哈/mg9.php?id=cctv15
 CCTV15,http://ak6668768.zicp.io:8814/live1015.m3u8#sop://api/migu.php?id=608807408#vjms://23.237.115.18:8500:3502/live/cid=465
@@ -846,6 +846,7 @@ CCTV17,http://free.cnlive.club/channel/9e11396/index.m3u8?q=1754617188750
 北京卫视,https://www.brtn.cn/btv/btvsy_index
 北京卫视,http://[2409:8087:2001:20:2800:0:df6e:eb24]:80/wh7f454c46tw1929426305_708351096/ott.mobaibox.com/PLTV/3/224/3221228410/index.m3u8?icpid=3&RTS=1674386339&from=40&popid=40&hms_devid=2292&prioritypopid=40&vqe=3
 北京卫视,http://live.catvod.com/catvod.php?id=bjws
+北京卫视,https://migu.188766.xyz/?migutoken=0dcae60c51e8105d8d4af5ab97694d46&id=bjws&type=dy
 东方卫视,http://150.158.112.123/%E5%85%AC%E4%BC%97%E5%8F%B7~%E7%8E%89%E7%8E%89%E8%BD%AF%E4%BB%B6%E5%BA%93/mg.php?id=dfws
 东方卫视,http://dd.ddzb.fun/php/migu.php?id=dfws
 东方卫视,http://kxrj.site:64325/86/mg.php?id=dfws
@@ -1066,6 +1067,7 @@ CCTV17,http://free.cnlive.club/channel/9e11396/index.m3u8?q=1754617188750
 广西卫视,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226681/1.m3u8
 广西卫视,http://live.catvod.com/catvod.php?id=gxws
 广西卫视,https://migu.188766.xyz/?migutoken=a14a32e0b7a3c08b74bf05938d108569&id=gxws&type=dy
+广西卫视,https://piccpndks.v.kcdnvip.com/audio/guangxi_2/index.m3u8
 贵州卫视,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=gzws
 贵州卫视,http://dd.ddzb.fun/php/migu.php?id=gzws
 贵州卫视,http://tvbox6.icu/tv/migu.php?id=gzws
@@ -1628,7 +1630,7 @@ CCTV17,http://free.cnlive.club/channel/9e11396/index.m3u8?q=1754617188750
 宁夏卫视,http://dsj.motem.top:8880/bptv/10000100000000050000000003887433.m3u8
 宁夏卫视,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226691/1.m3u8
 宁夏卫视,http://live.catvod.com/catvod.php?id=nxws
-宁夏卫视,https://migu.188766.xyz/?migutoken=a3b7a7683510f72e40c43179ce32110b&id=nxws&type=dy
+宁夏卫视,https://migu.188766.xyz/?migutoken=a97817df7c16669cab2692a081a0bbba&id=linxws&type=dy
 青海卫视,http://150.158.112.123/%E5%85%AC%E4%BC%97%E5%8F%B7~%E7%8E%89%E7%8E%89%E8%BD%AF%E4%BB%B6%E5%BA%93/mg.php?id=qhws
 青海卫视,http://kxrj.site:64325/86/mg.php?id=qhws
 青海卫视,http://dd.ddzb.fun/php/migu.php?id=qhws
@@ -1751,6 +1753,7 @@ CCTV17,http://free.cnlive.club/channel/9e11396/index.m3u8?q=1754617188750
 山西卫视,http://[2409:8087:74d9:21::6]/270000001128/9900000053/index.m3u8
 山西卫视,https://migu.188766.xyz/?migutoken=82053423a9ed3d839fbe6f76293c82fb&id=sxws&type=dy
 山西卫视,https://mursor.ottiptv.cc/gptv/SXWS.m3u8
+山西卫视,http://[2409:8087:1a15:10d1::38]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226392/index.m3u8
 陕西卫视,http://gat.bkpcp.top/ymg.php?id=sxws
 陕西卫视,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=sxws
 陕西卫视,http://211.101.234.24:866/aishang/migu.php/migu.php?id=sxws
