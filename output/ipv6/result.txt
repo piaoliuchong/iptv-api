@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-09-04 18:26:34,http://119.91.33.253/migu.php?id=cctv1
+2025-09-05 18:24:26,http://119.91.33.253/migu.php?id=cctv1
 
 央视频道,#genre#
 CCTV1,http://119.91.33.253/migu.php?id=cctv1
@@ -146,6 +146,7 @@ CCTV3,https://tv-1.iill.top/migu/cctv3
 CCTV3,https://mursor.ottiptv.cc/migu/624878271.m3u8?migutoken=702d2bdad2ab4197023a5a00a065cd67b6fcdccfdab33907dfb40c43028a0f26d0f7c573aceb3549816f28c0165523eb85334c12e30fe3aef530f357ec3667ce37157d69bf7b29ffb04465933d
 CCTV3,http://[2409:8087:1a15:10d1::36]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
 CCTV3,https://live.goodiptv.club/api/bestv.php?id=cctv38m/8000000
+CCTV3,https://cc06.tv12.xyz/3.m3u8
 CCTV4,http://119.91.33.253/migu.php?id=cctv4
 CCTV4,http://ttkx.cc:1380/653哈哈/mg9.php?id=cctv4
 CCTV4,http://kxrj.site:64325/86/mg.php?id=cctv4
@@ -294,6 +295,7 @@ CCTV6,https://tv-1.iill.top/migu/cctv6
 CCTV6,https://mursor.ottiptv.cc/migu/624878396.m3u8?migutoken=b63d5c285ad707f36a772eaabbac9a8c8fca0fb992851f1dc2af5a6248db6482175d7f52445f659855f37b9290c27d6ccacc8d058fcaa67ba25f7a81bfc5abc84e0d5ba6744b162684ec5dfaaa
 CCTV6,http://[2409:8087:1a15:10d1::34]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
 CCTV6,https://live.goodiptv.club/api/bestv.php?id=cctv6hd8m/8000000
+CCTV6,https://cc06.tv12.xyz/7.m3u8
 CCTV7,http://119.91.33.253/migu.php?id=cctv7
 CCTV7,http://ttkx.cc:1380/653哈哈/mg9.php?id=cctv7
 CCTV7,http://kxrj.site:64325/86/mg.php?id=cctv7
@@ -389,6 +391,7 @@ CCTV8,https://tv-1.iill.top/migu/cctv8
 CCTV8,https://mursor.ottiptv.cc/migu/624878356.m3u8?migutoken=aa54b7b92c76b3bdefb474f933500b51a79f723d7f881f82761b06fd5c5a262a3c883609135d457c406d84246d684f44ab8b0e7bce3f616727b8d11bc050ad577d0675c55e150ce0b9eaddc830
 CCTV8,http://[2409:8087:1a15:10d1::38]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
 CCTV8,https://live.goodiptv.club/api/bestv.php?id=cctv8hd8m/8000000
+CCTV8,https://cc06.tv12.xyz/9.m3u8
 CCTV9,http://119.91.33.253/migu.php?id=cctv9
 CCTV9,http://kxrj.site:64325/86/mg.php?id=cctv9
 CCTV9,http://dd.ddzb.fun/php/migu.php?id=cctv9
@@ -435,6 +438,7 @@ CCTV9,https://mursor.ottiptv.cc/migu/673168140.m3u8?migutoken=faf8a068a3462eb7dc
 CCTV9,http://[2409:8087:1a15:10d1::34]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
 CCTV9,https://live.goodiptv.club/api/bestv.php?id=cctv9hd8m/8000000
 CCTV9,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000505/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000505
+CCTV9,https://cc06.tv12.xyz/10.m3u8
 CCTV10,http://119.91.33.253/migu.php?id=cctv10
 CCTV10,http://ttkx.cc:1380/653哈哈/mg9.php?id=cctv10
 CCTV10,http://kxrj.site:64325/86/mg.php?id=cctv10
@@ -483,6 +487,7 @@ CCTV10,https://piccpndks.v.kcdnvip.com/audio/cctv10_2/index.m3u8
 CCTV10,https://mursor.ottiptv.cc/migu/624878405.m3u8?migutoken=b5325cc852d2be171919ec32f9936f7e6c2cc8858d0c90c8b686185a93ca8347e7fcb33714a5c0c85932cf2499889ebd022584ad659ce20e62c50d5c10a241393a351f96335a2513b833a380e4
 CCTV10,http://[2409:8087:1a15:10d1::33]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
 CCTV10,https://live.goodiptv.club/api/bestv.php?id=cctv10hd8m/8000000
+CCTV10,https://cc06.tv12.xyz/11.m3u8
 CCTV11,http://119.91.33.253/migu.php?id=cctv11
 CCTV11,http://ak6668768.zicp.io:8810/live1011.m3u8#sop://api/migu.php?id=667987558#vjms://23.237.115.18:8500:3502/live/cid=463
 CCTV11,http://kxrj.site:64325/86/mg.php?id=cctv11
@@ -528,6 +533,7 @@ CCTV11,http://[2409:8087:1a15:10d1::34]/ottrrs.hl.chinamobile.com/PLTV/88888888/
 CCTV11,https://live.goodiptv.club/api/bestv.php?id=cctv11hd8m/8000000
 CCTV11,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000508/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000508
 CCTV11,https://mursor.ottiptv.cc/migu/667987558.m3u8?migutoken=9d6acd343dea7d47f49017ab5fd7be04ed59bac40b5e917e39ff8cfa5c22f468653f71526711f7237f037841a472fa2f3fdd4f5196cc293caba2716d7c2963b39f14052ba86d69a09a87529b32
+CCTV11,https://cc06.tv12.xyz/12.m3u8
 CCTV12,http://58.210.168.86:10800/newlive/live/hls/11/live.m3u8#sop://api/migu.php?id=609017191
 CCTV12,http://119.91.33.253/migu.php?id=cctv12
 CCTV12,http://ttkx.cc:1380/653哈哈/mg9.php?id=cctv12
@@ -577,6 +583,7 @@ CCTV12,http://[2409:8087:1a15:10d1::34]/ottrrs.hl.chinamobile.com/PLTV/88888888/
 CCTV12,http://[2409:8087:1a15:10d1::36]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226568/index.m3u8
 CCTV12,https://live.goodiptv.club/api/bestv.php?id=cctv12hd8m/8000000
 CCTV12,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000509/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000509
+CCTV12,https://cc06.tv12.xyz/13.m3u8
 CCTV13,http://119.91.33.253/migu.php?id=cctv13
 CCTV13,http://kxrj.site:64325/86/mg.php?id=cctv13
 CCTV13,http://dd.ddzb.fun/php/migu.php?id=cctv13
@@ -670,7 +677,8 @@ CCTV14,https://mursor.ottiptv.cc/migu/624878440.m3u8?migutoken=97e81998e530764f9
 CCTV14,http://[2409:8087:1a15:10d1::37]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226591/index.m3u8
 CCTV14,https://live.goodiptv.club/api/bestv.php?id=cctvsehd8m/8000000
 CCTV14,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000511/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000511
-CCTV14,https://event.pull.hebtv.com/jishi/cp2.m3u8
+CCTV14,https://event.pull.hebtv.com/jishi/cp2.m3u8#rtsp://103.251.96.71/PLTV/88888888/224/3221225783/10000100000000060000000000726027_0.smil?icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;accountinfo=:20240213104135
+CCTV14,https://cc06.tv12.xyz/15.m3u8
 CCTV15,http://119.91.33.253/migu.php?id=cctv15
 CCTV15,http://ttkx.cc:1380/653哈哈/mg9.php?id=cctv15
 CCTV15,http://ak6668768.zicp.io:8814/live1015.m3u8#sop://api/migu.php?id=608807408#vjms://23.237.115.18:8500:3502/live/cid=465
@@ -719,6 +727,7 @@ CCTV15,https://piccpndks.v.kcdnvip.com/audio/cctv15_2/index.m3u8
 CCTV15,http://[2409:8087:1a15:10d1::36]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
 CCTV15,https://live.goodiptv.club/api/bestv.php?id=cctv15hd8m/8000000
 CCTV15,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000512/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000512
+CCTV15,https://cc06.tv12.xyz/16.m3u8
 CCTV16,http://kxrj.site:64325/86/mg.php?id=cctv16
 CCTV16,http://dd.ddzb.fun/php/migu.php?id=cctv16
 CCTV16,http://211.101.234.24:866/aishang/migu.php/migu.php?id=cctv16
@@ -797,6 +806,7 @@ CCTV17,http://[2409:8087:1a15:10d1::36]/ottrrs.hl.chinamobile.com/PLTV/88888888/
 CCTV17,https://live.goodiptv.club/api/bestv.php?id=cctv17hd8m/8000000
 CCTV17,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000513/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000513
 CCTV17,https://mursor.ottiptv.cc/migu/673168256.m3u8?migutoken=e36f3bbfb79f8f97823a18af05f0611e6a96af6cb7133f069de793f17d7bbe83d1cd317367044a0345b4be635d6b63fdc1aaa030cfd1dc148ae377f387ae327f50e484d7b20a6c642faf378904
+CCTV17,https://cc06.tv12.xyz/17.m3u8
 
 卫视频道,#genre#
 安徽卫视,http://nctv.top/IDOEPpiryt/migu.php?id=ahws
@@ -1042,7 +1052,7 @@ CCTV17,https://mursor.ottiptv.cc/migu/673168256.m3u8?migutoken=e36f3bbfb79f8f978
 广东卫视,http://goo.bkpcp.top/mg/gdws
 广东卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/1.m3u8?icpid=88888888&from=1&hms_devid=1012&vqe=3
 广东卫视,http://[2409:8087:1a0a:df::404b]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8
-广东卫视,http://z.b.bkpcp.top/m.php?id=gdws
+广东卫视,http://z.b.bkpcp.top/m.php?id=gdws###HLS\\n
 广东卫视,http://j.x.bkpcp.top/jx/GUANGDHD
 广东卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225701/2/index.m3u8
 广东卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8
