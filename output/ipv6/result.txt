@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-09-08 18:29:19,http://119.91.33.253/migu.php?id=cctv1
+2025-09-09 18:26:10,http://119.91.33.253/migu.php?id=cctv1
 
 央视频道,#genre#
 CCTV1,http://119.91.33.253/migu.php?id=cctv1
@@ -51,7 +51,7 @@ CCTV1,http://[2409:8087:2001:20:2800:0:df6e:eb14]:80/wh7f454c46tw3964515718_-284
 CCTV1,http://live.catvod.com/catvod.php?id=cctv1
 CCTV1,http://free.cnlive.club/channel/47cdbb52/index.m3u8?q=1753234122802
 CCTV1,http://bailudz.top:1236/111/hahahaha.php?id=cctv1
-CCTV1,https://migu.188766.xyz/?migutoken=453c11665bb8d402e31a4dd917b5ce36&id=CCTV1&pp=1
+CCTV1,https://migu.188766.xyz/?migutoken=741e40cd30ca20ff5b10e49b08c79086&id=CCTV1&type=yy
 CCTV2,http://119.91.33.253/migu.php?id=cctv2
 CCTV2,http://ttkx.cc:1380/653哈哈/mg9.php?id=cctv2
 CCTV2,http://kxrj.site:64325/86/mg.php?id=cctv2
@@ -95,7 +95,7 @@ CCTV2,http://[2409:8087:2001:20:2800:0:df6e:eb14]:80/wh7f454c46tw3966154438_-133
 CCTV2,http://[2409:8087:2001:20:2800:0:df6e:eb0a]:80/wh7f454c46tw2171563166_1731827918/ott.mobaibox.com/PLTV/3/224/3221227427/index.m3u8?icpid=3&RTS=1674386581&from=40&popid=40&hms_devid=2038&prioritypopid=40&vqe=3
 CCTV2,http://[2409:8087:2001:20:2800:0:df6e:eb0e]:80/wh7f454c46tw1529316470_522388216/ott.mobaibox.com/PLTV/3/224/3221227696/index.m3u8?icpid=3&RTS=1674385939&from=40&popid=40&hms_devid=2111&prioritypopid=40&vqe=3
 CCTV2,http://live.catvod.com/catvod.php?id=cctv2
-CCTV2,https://migu.188766.xyz/?migutoken=b9ccf198af003ffc95e17f8251df6f8a&id=CCTV2&pp=1
+CCTV2,https://migu.188766.xyz/?migutoken=6a81bbdc4e43b79d65675c4e4ea35adb&id=CCTV2&type=yy
 CCTV2,http://bailudz.top:1236/111/hahahaha.php?id=cctv2
 CCTV2,https://tv-1.iill.top/migu/cctv2
 CCTV2,http://free.cnlive.club/channel/47d01112/index.m3u8?q=1754617188750
@@ -140,7 +140,7 @@ CCTV3,http://[2409:8087:2001:20:2800:0:df6e:eb0c]:80/wh7f454c46tw3969211375_-119
 CCTV3,http://[2409:8087:2001:20:2800:0:df6e:eb0f]:80/wh7f454c46tw3968988866_1321620950/ott.mobaibox.com/PLTV/3/224/3221227424/index.m3u8?icpid=3&RTS=1674379789&from=40&popid=40&hms_devid=2111&prioritypopid=40&vqe=3
 CCTV3,http://live.catvod.com/catvod.php?id=cctv3
 CCTV3,http://bailudz.top:1236/111/hahahaha.php?id=cctv3
-CCTV3,https://migu.188766.xyz/?migutoken=409094f5d581777875a19a216c786875&id=CCTV3&pp=1
+CCTV3,https://migu.188766.xyz/?migutoken=30a46d464cacbe9572313e2496e1371e&id=CCTV3&type=yy
 CCTV3,http://free.cnlive.club/channel/47ced282/index.m3u8?q=1754013004047
 CCTV3,https://tv-1.iill.top/migu/cctv3
 CCTV3,https://mursor.ottiptv.cc/migu/624878271.m3u8?migutoken=702d2bdad2ab4197023a5a00a065cd67b6fcdccfdab33907dfb40c43028a0f26d0f7c573aceb3549816f28c0165523eb85334c12e30fe3aef530f357ec3667ce37157d69bf7b29ffb04465933d
@@ -247,7 +247,7 @@ CCTV5,http://live.catvod.com/catvod.php?id=cctv5
 CCTV5,http://bailudz.top:1236/111/hahahaha.php?id=cctv5
 CCTV5,http://free.cnlive.club/channel/n5d959a6c/index.m3u8?q=1754617188750
 CCTV5,https://tv-1.iill.top/migu/cctv5
-CCTV5,https://migu.188766.xyz/?migutoken=d98da43ff5bf0423b260d3250286a85d&id=CCTV5&pp=1
+CCTV5,https://migu.188766.xyz/?migutoken=01707bfeafdf2f5a676528de637aaca2&id=CCTV5&type=yy
 CCTV5,https://mursor.ottiptv.cc/migu/641886683.m3u8?migutoken=77f0c548618e5e42bb7bf80c4f009258545d4049642fe079206e982e5f28aa06f2bb8d8ab63f5c519f74f772eef76d514bd132556cf4ae68caabbcc3d4d2efe119537c7e94d9ca40320f25a224
 CCTV6,http://119.91.33.253/migu.php?id=cctv6
 CCTV6,http://ttkx.cc:1380/653哈哈/mg9.php?id=cctv6
@@ -292,7 +292,7 @@ CCTV6,http://live.catvod.com/catvod.php?id=cctv6
 CCTV6,http://goo.bkpcp.top/mg/cctv6
 CCTV6,http://free.cnlive.club/channel/47cedd7d/index.m3u8?q=1753234122802
 CCTV6,http://bailudz.top:1236/111/hahahaha.php?id=cctv6
-CCTV6,https://migu.188766.xyz/?migutoken=a9ba4910c41ac24834359af58c027234&id=CCTV6&pp=1
+CCTV6,https://migu.188766.xyz/?migutoken=ed28b35479516f0f395830f2a82b249b&id=CCTV6&type=yy
 CCTV6,https://tv-1.iill.top/migu/cctv6
 CCTV6,https://mursor.ottiptv.cc/migu/624878396.m3u8?migutoken=b63d5c285ad707f36a772eaabbac9a8c8fca0fb992851f1dc2af5a6248db6482175d7f52445f659855f37b9290c27d6ccacc8d058fcaa67ba25f7a81bfc5abc84e0d5ba6744b162684ec5dfaaa
 CCTV6,http://[2409:8087:1a15:10d1::34]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
@@ -341,7 +341,7 @@ CCTV7,http://[2409:8087:2001:20:2800:0:df6e:eb07]:80/wh7f454c46tw1534664408_-189
 CCTV7,http://[2409:8087:2001:20:2800:0:df6e:eb0f]:80/wh7f454c46tw92895071_1833672570/ott.mobaibox.com/PLTV/3/224/3221227626/index.m3u8?icpid=3&RTS=1674380208&from=40&popid=40&hms_devid=2111&prioritypopid=40&vqe=3
 CCTV7,http://[2409:8087:2001:20:2800:0:df6e:eb12]:80/wh7f454c46tw1744742726_979409702/ott.mobaibox.com/PLTV/3/224/3221227690/index.m3u8?icpid=3&RTS=1674386155&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
 CCTV7,http://live.catvod.com/catvod.php?id=cctv7
-CCTV7,https://migu.188766.xyz/?migutoken=9904253d924c75858d52bce767e31602&id=CCTV7&pp=1
+CCTV7,https://migu.188766.xyz/?migutoken=8955f267ee3498731536da74f7857213&id=CCTV7&type=yy
 CCTV7,http://bailudz.top:1236/111/hahahaha.php?id=cctv7
 CCTV7,https://tv-1.iill.top/migu/cctv7
 CCTV7,http://free.cnlive.club/channel/n7ba2911b/index.m3u8?q=1754617188750
@@ -388,7 +388,7 @@ CCTV8,http://[2409:8087:2001:20:2800:0:df6e:eb0e]:80/wh7f454c46tw1535406948_-524
 CCTV8,http://[2409:8087:2001:20:2800:0:df6e:eb17]:80/wh7f454c46tw94469366_159744225/ott.mobaibox.com/PLTV/3/224/3221227629/index.m3u8?icpid=3&RTS=1674380209&from=40&popid=40&hms_devid=2114&prioritypopid=40&vqe=3
 CCTV8,http://live.catvod.com/catvod.php?id=cctv8
 CCTV8,http://bailudz.top:1236/111/hahahaha.php?id=cctv8
-CCTV8,https://migu.188766.xyz/?migutoken=2fc6e603a677c2b6e037d82b56a564e5&id=CCTV8&pp=1
+CCTV8,https://migu.188766.xyz/?migutoken=a2faef85bc9268e42f57425fbbe40fb7&id=CCTV8&type=yy
 CCTV8,http://free.cnlive.club/channel/n4dd18c29/index.m3u8?q=1754013004047
 CCTV8,https://tv-1.iill.top/migu/cctv8
 CCTV8,https://mursor.ottiptv.cc/migu/624878356.m3u8?migutoken=aa54b7b92c76b3bdefb474f933500b51a79f723d7f881f82761b06fd5c5a262a3c883609135d457c406d84246d684f44ab8b0e7bce3f616727b8d11bc050ad577d0675c55e150ce0b9eaddc830
@@ -436,7 +436,7 @@ CCTV9,https://www.nettvpro.xyz/player/videojs.php?url=http://117.161.12.116/live
 CCTV9,https://tv.iill.top/migu/cctv9
 CCTV9,http://live.catvod.com/catvod.php?id=cctv9
 CCTV9,http://bailudz.top:1236/111/hahahaha.php?id=cctv9
-CCTV9,https://migu.188766.xyz/?migutoken=d32efa9229f1b1c23e92e6fa1eb3d26e&id=CCTV9&pp=1
+CCTV9,https://migu.188766.xyz/?migutoken=d8edd315b78b678a4be93a53ef2cd642&id=CCTV9&type=yy
 CCTV9,https://tv-1.iill.top/migu/cctv9
 CCTV9,http://free.cnlive.club/channel/47d2f363/index.m3u8?q=1754617188750
 CCTV9,https://mursor.ottiptv.cc/migu/673168140.m3u8?migutoken=faf8a068a3462eb7dc6058c539f26fc21b41c8d5b87d8aa115a06219943f17627c2d010a1b567adc863dccad78eebd2d814c6607a603bc770c25b6a7aead1ff2fc85cf1b77d4ab0e79f4443ee9
@@ -487,7 +487,7 @@ CCTV10,http://[2409:8087:2001:20:2800:0:df6e:eb0e]:80/wh7f454c46tw1745481248_-20
 CCTV10,http://live.catvod.com/catvod.php?id=cctv10
 CCTV10,http://free.cnlive.club/channel/n4fe64a4e/index.m3u8?q=1753234122802
 CCTV10,http://bailudz.top:1236/111/hahahaha.php?id=cctv10
-CCTV10,https://migu.188766.xyz/?migutoken=c3259d5b5d7dc786184d64b9341bc6a4&id=CCTV10&pp=1
+CCTV10,https://migu.188766.xyz/?migutoken=17a4725e71442939cb19173ee72bba15&id=CCTV10&type=yy
 CCTV10,https://tv-1.iill.top/migu/cctv10
 CCTV10,https://piccpndks.v.kcdnvip.com/audio/cctv10_2/index.m3u8
 CCTV10,https://mursor.ottiptv.cc/migu/624878405.m3u8?migutoken=b5325cc852d2be171919ec32f9936f7e6c2cc8858d0c90c8b686185a93ca8347e7fcb33714a5c0c85932cf2499889ebd022584ad659ce20e62c50d5c10a241393a351f96335a2513b833a380e4
@@ -534,7 +534,7 @@ CCTV11,https://tv.iill.top/migu/cctv11
 CCTV11,http://live.catvod.com/catvod.php?id=cctv11
 CCTV11,http://free.cnlive.club/channel/n4fe8b4d4/index.m3u8?q=1753234122802
 CCTV11,http://bailudz.top:1236/111/hahahaha.php?id=cctv11
-CCTV11,https://migu.188766.xyz/?migutoken=0459be8129b369d072f405c615aff4c1&id=CCTV11&pp=1
+CCTV11,https://migu.188766.xyz/?migutoken=2f832af83f0fb7a15f9017acc1bf908d&id=CCTV11&type=yy
 CCTV11,https://tv-1.iill.top/migu/cctv11
 CCTV11,http://[2409:8087:1a15:10d1::34]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226565/index.m3u8
 CCTV11,https://live.goodiptv.club/api/bestv.php?id=cctv11hd8m/8000000
@@ -585,7 +585,7 @@ CCTV12,https://tv.iill.top/migu/cctv12
 CCTV12,http://live.catvod.com/catvod.php?id=cctv12
 CCTV12,http://free.cnlive.club/channel/13604deb/index.m3u8?q=1753234122802
 CCTV12,http://bailudz.top:1236/111/hahahaha.php?id=cctv12
-CCTV12,https://migu.188766.xyz/?migutoken=74ae854c028c7cadd6f2f71020795f32&id=CCTV12&pp=1
+CCTV12,https://migu.188766.xyz/?migutoken=54fa5c5cfa232488f5fe930076aafe00&id=CCTV12&type=yy
 CCTV12,https://tv-1.iill.top/migu/cctv12
 CCTV12,https://mursor.ottiptv.cc/migu/673168185.m3u8?migutoken=a803c5816215db51a2786442dbf12584fbb956e9004f55850e60e7e9f05f9c64432db9341c81e949e5775d901fd08389ca07926381b98c737513a72fe74381dc4c097c90550a157d6834b5be83
 CCTV12,http://[2409:8087:1a15:10d1::34]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
@@ -637,7 +637,7 @@ CCTV13,http://[2409:8087:2001:20:2800:0:df6e:eb15]:80/wh7f454c46tw98873079_-1249
 CCTV13,http://[2409:8087:2001:20:2800:0:df6e:eb16]:80/wh7f454c46tw2053011790_915661497/ott.mobaibox.com/PLTV/3/224/3221228224/index.m3u8?icpid=3&RTS=1674386463&from=40&popid=40&hms_devid=2114&prioritypopid=40&vqe=3
 CCTV13,http://live.catvod.com/catvod.php?id=cctv13
 CCTV13,http://bailudz.top:1236/111/hahahaha.php?id=cctv13
-CCTV13,https://migu.188766.xyz/?migutoken=a0913902c75be72a8464c098d956b76a&id=CCTV13&pp=1
+CCTV13,https://migu.188766.xyz/?migutoken=31ebb48bd432094e58cea22829157eeb&id=CCTV13&type=yy
 CCTV13,https://tv-1.iill.top/migu/cctv13
 CCTV13,http://free.cnlive.club/channel/n4fe72c8e/index.m3u8?q=1754617188750
 CCTV13,http://[2409:8087:1a15:10d1::35]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
@@ -678,7 +678,7 @@ CCTV14,https://smart.pendy.dpdns.org/Smart.php?id=cctv14
 CCTV14,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226645/1.m3u8
 CCTV14,https://tv.iill.top/migu/cctv14
 CCTV14,http://live.catvod.com/catvod.php?id=cctv14
-CCTV14,https://migu.188766.xyz/?migutoken=1cb5903f7801c89d2de368efe342aa87&id=CCTV14&pp=1
+CCTV14,https://migu.188766.xyz/?migutoken=cc21d6cf79548f3e479725d061db50ca&id=CCTV14&type=yy
 CCTV14,http://bailudz.top:1236/111/hahahaha.php?id=cctv14
 CCTV14,https://tv-1.iill.top/migu/cctv14
 CCTV14,http://free.cnlive.club/channel/n4fe8272c/index.m3u8?q=1754617188750
@@ -690,7 +690,7 @@ CCTV14,https://cc06.tv12.xyz/15.m3u8
 CCTV14,http://[2409:8087:1a15:10d1::36]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226591/index.m3u8
 CCTV14,https://mgtv.ottiptv.cc/migu/624878440.m3u8?migutoken=a455d4087ef34f682ad690ed277d79142d4ac209dadf5211e66aa3f2a8035d8f6520747c64fdcc1f5232f091972870098482a2412615b47013721b62f76f1c0c73aabc59dff839cae7da50e445
 CCTV14,https://zby.130519.xyz/PLTV/11/224/3221225738/index.m3u8
-CCTV14,https://event.pull.hebtv.com/jishi/cp2.m3u8
+CCTV14,https://event.pull.hebtv.com/jishi/cp2.m3u8#rtsp://103.251.96.71/PLTV/88888888/224/3221225783/10000100000000060000000000726027_0.smil?icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;accountinfo=:20240213104135
 CCTV15,http://119.91.33.253/migu.php?id=cctv15
 CCTV15,http://ttkx.cc:1380/653哈哈/mg9.php?id=cctv15
 CCTV15,http://ak6668768.zicp.io:8814/live1015.m3u8#sop://api/migu.php?id=608807408#vjms://23.237.115.18:8500:3502/live/cid=465
@@ -729,7 +729,7 @@ CCTV15,https://smart.pendy.dpdns.org/Smart.php?id=cctv15
 CCTV15,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226648/1.m3u8
 CCTV15,https://tv.iill.top/migu/cctv15
 CCTV15,http://live.catvod.com/catvod.php?id=cctv15
-CCTV15,https://migu.188766.xyz/?migutoken=f8ecff277c172c336f93ded6aa63f31b&id=CCTV15&pp=1
+CCTV15,https://migu.188766.xyz/?migutoken=1e4c6f10125ab0b7d79deccf605dd5ed&id=CCTV15&type=yy
 CCTV15,http://free.cnlive.club/channel/n4fe0755e/index.m3u8?q=1753234122802
 CCTV15,http://bailudz.top:1236/111/hahahaha.php?id=cctv15
 CCTV15,http://702cae17a28d6e4f0c0002bba021d934.livehwc4.com/live.sxrtv.com/iptv/cctv15.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=fff91da2a62e740affbe5b5b265e2d8e
@@ -771,7 +771,7 @@ CCTV16,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226825/1.m3u8
 CCTV16,http://[2409:8087:2001:20:2800:0:df6e:eb0a]:80/wh7f454c46tw1312175710_-1555934560/ott.mobaibox.com/PLTV/3/224/3221228144/index.m3u8?icpid=3&RTS=1674381427&from=40&popid=40&hms_devid=2038&prioritypopid=40&vqe=3
 CCTV16,http://[2409:8087:2001:20:2800:0:df6e:eb15]:80/wh7f454c46tw2571298525_-1215675140/ott.mobaibox.com/PLTV/3/224/3221228112/index.m3u8?icpid=3&RTS=1674386981&from=40&popid=40&hms_devid=2115&prioritypopid=40&vqe=3
 CCTV16,http://[2409:8087:2001:20:2800:0:df6e:eb1a]:80/wh7f454c46tw465056087_375752967/ott.mobaibox.com/PLTV/3/224/3221228112/index.m3u8?icpid=3&RTS=1674466479&from=40&popid=40&hms_devid=2116&prioritypopid=40&vqe=3
-CCTV16,https://migu.188766.xyz/?migutoken=4b13169253ac38ce91dee23c8eeb860a&id=CCTV16&pp=1
+CCTV16,https://migu.188766.xyz/?migutoken=4f3487e0e8557216ed7151d8fe8f7ff1&id=CCTV16&type=yy
 CCTV16,http://free.cnlive.club/channel/c15fcc8/index.m3u8?q=1754617188750
 CCTV16,http://[2409:8087:1a15:10d1::35]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 CCTV16,https://live.goodiptv.club/api/bestv.php?id=cctv16hd8m/8000000
@@ -814,7 +814,7 @@ CCTV17,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/2
 CCTV17,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226660/1.m3u8
 CCTV17,http://live.catvod.com/catvod.php?id=cctv17
 CCTV17,http://bailudz.top:1236/111/hahahaha.php?id=cctv17
-CCTV17,https://migu.188766.xyz/?migutoken=909c87600ed8f428aba59a9451442c9b&id=CCTV17&pp=1
+CCTV17,https://migu.188766.xyz/?migutoken=041c72b63f2868a1476de960f2530a69&id=CCTV17&type=yy
 CCTV17,http://free.cnlive.club/channel/9e11396/index.m3u8?q=1754617188750
 CCTV17,http://[2409:8087:1a15:10d1::36]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 CCTV17,https://live.goodiptv.club/api/bestv.php?id=cctv17hd8m/8000000
@@ -1632,7 +1632,7 @@ CCTV17,https://mgtv.ottiptv.cc/migu/673168256.m3u8?migutoken=549f447a71760fff3b0
 江西卫视,http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/wh7f454c46tw2488758368_-1947201691/ott.mobaibox.com/PLTV/3/224/3221228557/index.m3u8?icpid=3&RTS=1674459913&from=40&popid=40&hms_devid=2293&prioritypopid=40&vqe=3
 江西卫视,http://live.catvod.com/catvod.php?id=jxws
 江西卫视,https://tv.iill.top/migu/jxws
-江西卫视,https://migu.188766.xyz/?migutoken=c7471f7ef122991661d3674b04ed27e6&id=%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86&pp=1
+江西卫视,https://migu.188766.xyz/?migutoken=4cb7eb7e45f6b3c4f4ac6bb10278d185&id=%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86&type=yy
 江西卫视,http://bailudz.top:1236/111/hahahaha.php?id=jxws
 江西卫视,https://tv-1.iill.top/migu/jxws
 辽宁卫视,http://dd.ddzb.fun/php/migu.php?id=lnws
@@ -1896,7 +1896,7 @@ CCTV17,https://mgtv.ottiptv.cc/migu/673168256.m3u8?migutoken=549f447a71760fff3b0
 陕西卫视,https://epg.pw/stream/f329709f6f2f437e06a426ffc1a1aa9c1459f09aa35b76d24c9a104450f10e08.m3u8
 陕西卫视,http://live.catvod.com/catvod.php?id=sxws
 陕西卫视,https://tv.iill.top/migu/sxws
-陕西卫视,https://migu.188766.xyz/?migutoken=6c1651f4bfb19ef3318df9940f5030f0&id=%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86&pp=1
+陕西卫视,https://migu.188766.xyz/?migutoken=7343fd380fa8d19fdf7e4e3f00086893&id=%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86&type=yy
 陕西卫视,http://bailudz.top:1236/111/hahahaha.php?id=sxws
 陕西卫视,https://tv-1.iill.top/migu/sxws
 陕西卫视,https://mursor.ottiptv.cc/gptv/G_SHANXI.m3u8
@@ -2061,6 +2061,7 @@ CCTV17,https://mgtv.ottiptv.cc/migu/673168256.m3u8?migutoken=549f447a71760fff3b0
 西藏卫视,https://mursor.ottiptv.cc/mcp/xizang.m3u8
 西藏卫视,https://zby.130519.xyz/PLTV/11/224/3221225767/index.m3u8
 西藏卫视,http://[2409:8087:1a15:10d1::39]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226433/index.m3u8
+西藏卫视,http://k.061899.xyz/m.php?id=xzws
 新疆卫视,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=xjws
 新疆卫视,http://dd.ddzb.fun/php/migu.php?id=xjws
 新疆卫视,http://tvbox6.icu/tv/migu.php?id=xjws
@@ -2266,7 +2267,7 @@ CHC动作电影,http://sport.pendy.dpdns.org/migu/644368714?token=BCDxUPC2aE0y0i
 CHC动作电影,https://tv.iill.top/migu/chcdz
 CHC动作电影,http://live.catvod.com/catvod.php?id=chcdz
 CHC动作电影,http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225555/index.m3u8
-CHC动作电影,https://migu.188766.xyz/?migutoken=a0f702525b38e0aae5cf651de2bda974&id=CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1&pp=1
+CHC动作电影,https://migu.188766.xyz/?migutoken=b08dcb6ae2e31bde46baf3216ba54898&id=CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1&type=yy
 CHC动作电影,https://tv-1.iill.top/migu/chcdz
 CHC动作电影,https://mursor.ottiptv.cc/migu/644368714.m3u8?migutoken=570a517d9a25a7668aefe899385c0d0dd6f3678fcff2e12b79113f7dabeed1f9c29cb62280b4e4036172f9dcbca39d90fe90b404c6a6fd6d8eefb84eb9259c39d24ad629c798f7b3dcb1ba8bea
 CHC动作电影,https://mgtv.ottiptv.cc/migu/644368714.m3u8?migutoken=4560e7c3057e88de7982b7db97b099ca8e845404f509eecfda842afeebb6e0f56b395a8276019f7ed722017147b1a70e9dc959dcfed100facacec159a601a865605665771c5c59de2823df6b56
@@ -2282,7 +2283,7 @@ CHC家庭影院,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_c
 CHC家庭影院,http://sport.pendy.dpdns.org/migu/644368373?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 CHC家庭影院,https://tv.iill.top/migu/chcjt
 CHC家庭影院,http://live.catvod.com/catvod.php?id=chcjt
-CHC家庭影院,https://migu.188766.xyz/?migutoken=bea68c53620706661db8f95b3087464f&id=CHC%E5%AE%B6%E5%BA%AD%E5%BD%B1%E9%99%A2&pp=1
+CHC家庭影院,https://migu.188766.xyz/?migutoken=e268731749b06407261d80959415ccbd&id=CHC%E5%AE%B6%E5%BA%AD%E5%BD%B1%E9%99%A2&type=yy
 CHC家庭影院,https://tv-1.iill.top/migu/chcjt
 CHC家庭影院,https://mursor.ottiptv.cc/migu/644368373.m3u8?migutoken=eda0112e6a1f0fac1c6d7d1bba6e6bf6f4bad80594800fe209a244e76507b80132e671dc1045ca63e497f73f714e92acba8837381116572cad1ef61ce9ddcc4ec333dd4414d08865970e33e630
 CHC家庭影院,https://mgtv.ottiptv.cc/migu/644368373.m3u8?migutoken=96653ba44c4403b1bb7de587c539e6861b3a58726df4a0dc3857f7267f85950ff7afe8b2786fbd2ac2cf4dac4e7c05e77b8ed3986bc9c3ab9e62fed4ec527924cf1c81957481f68bdd780f9489
