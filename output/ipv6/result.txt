@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-09-16 18:26:09,http://119.91.33.253/migu.php?id=cctv1
+2025-09-17 18:26:12,http://119.91.33.253/migu.php?id=cctv1
 
 央视频道,#genre#
 CCTV1,http://119.91.33.253/migu.php?id=cctv1
@@ -694,7 +694,7 @@ CCTV14,http://[2409:8087:1a15:10d1::36]/ottrrs.hl.chinamobile.com/PLTV/88888888/
 CCTV14,https://mgtv.ottiptv.cc/mg/624878440.m3u8?sign=aac4884f1d8dabe7f095d80eb98d84e8&tm=1757355490&token=335e6d89dc9fb51475ae6985deb694ac07e0bd4f4448c886b1f50bcf975f8cb96a3236f9630b19b16520e6236a3d2670fc9651f29647837d1e39e4027cf51691a69877060bb55c83b4e8aab3e2
 CCTV14,https://zby.130519.xyz/PLTV/11/224/3221225738/index.m3u8
 CCTV14,http://z.b.bkpcp.top/m.php?id=cctv14
-CCTV14,https://event.pull.hebtv.com/jishi/cp2.m3u8
+CCTV14,https://event.pull.hebtv.com/jishi/cp2.m3u8#rtsp://103.251.96.71/PLTV/88888888/224/3221225783/10000100000000060000000000726027_0.smil?icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;accountinfo=:20240213104135
 CCTV15,http://119.91.33.253/migu.php?id=cctv15
 CCTV15,http://ttkx.cc:1380/653哈哈/mg9.php?id=cctv15
 CCTV15,http://ak6668768.zicp.io:8814/live1015.m3u8#sop://api/migu.php?id=608807408#vjms://23.237.115.18:8500:3502/live/cid=465
@@ -878,6 +878,7 @@ CCTV17,http://z.b.bkpcp.top/m.php?id=cctv17
 安徽卫视,http://[2409:8087:1a15:10d1::39]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
 安徽卫视,https://live.goodiptv.club/api/bestv.php?id=ahwshd8m/8000000
 安徽卫视,https://zby.130519.xyz/PLTV/11/224/3221225739/index.m3u8
+安徽卫视,https://tv.iill.top/x/ahws
 北京卫视,http://dd.ddzb.fun/php/migu.php?id=bjws
 北京卫视,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226900/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EcYPi33WFyhvd6SjmqUKhJg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 北京卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010143
@@ -1157,6 +1158,7 @@ CCTV17,http://z.b.bkpcp.top/m.php?id=cctv17
 广西卫视,https://live.goodiptv.club/api/bestv.php?id=gxwshd8m/8000000
 广西卫视,https://mursor.ottiptv.cc/mcp/guangxi.m3u8?sign=d565ddd3f9b5a18b911837a97e3722fe&tm=1757357234
 广西卫视,https://zby.130519.xyz/PLTV/11/224/3221226084/index.m3u8
+广西卫视,https://tv.iill.top/x/gxws
 贵州卫视,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=gzws
 贵州卫视,http://dd.ddzb.fun/php/migu.php?id=gzws
 贵州卫视,http://tvbox6.icu/tv/migu.php?id=gzws
@@ -1203,6 +1205,7 @@ CCTV17,http://z.b.bkpcp.top/m.php?id=cctv17
 贵州卫视,http://[2409:8087:1a15:10d1::34]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/index.m3u8
 贵州卫视,https://live.goodiptv.club/api/bestv.php?id=gzwshd8m/8000000
 贵州卫视,https://zby.130519.xyz/PLTV/11/224/3221226173/index.m3u8
+贵州卫视,https://tv.iill.top/x/gzws
 海南卫视,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=hinws
 海南卫视,http://kxrj.site:64325/86/mg.php?id=hinws
 海南卫视,http://dd.ddzb.fun/php/migu.php?id=hinws
@@ -1252,6 +1255,7 @@ CCTV17,http://z.b.bkpcp.top/m.php?id=cctv17
 海南卫视,http://[2409:8087:1a0a:df::4031]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
 海南卫视,https://mursor.ottiptv.cc/mcp/hainan.m3u8?sign=1d34d2d748334d8698e9b6e53306c4d7&tm=1757357234
 海南卫视,https://zby.130519.xyz/PLTV/11/224/3221226154/index.m3u8
+海南卫视,https://tv.iill.top/x/hainws
 河北卫视,http://nctv.top/IDOEPpiryt/migu.php?id=hbws
 河北卫视,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8
 河北卫视,https://jwplay.hebyun.com.cn/live/hbwstv/1500k/tzwj_video.m3u8
@@ -1344,6 +1348,7 @@ CCTV17,http://z.b.bkpcp.top/m.php?id=cctv17
 河南卫视,http://[2409:8087:1a15:10d1::36]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8
 河南卫视,https://live.goodiptv.club/api/bestv.php?id=hnwshd8m/8000000
 河南卫视,https://zby.130519.xyz/PLTV/11/224/3221226132/index.m3u8
+河南卫视,https://tv.iill.top/x/henws
 黑龙江卫视,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226239/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EEHwpSHKc5p-bHJfhpIWFig%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNM5Y8rTELLykZJHp-bmY2YW%2CEND
 黑龙江卫视,http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8
 黑龙江卫视,http://z.b.bkpcp.top/m.php?id=hljws
@@ -1540,6 +1545,7 @@ CCTV17,http://z.b.bkpcp.top/m.php?id=cctv17
 吉林卫视,http://[2409:8087:1a15:10d1::36]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
 吉林卫视,https://live.goodiptv.club/api/bestv.php?id=jlwshd8m/8000000
 吉林卫视,https://zby.130519.xyz/PLTV/11/224/3221226082/index.m3u8
+吉林卫视,https://tv.iill.top/x/jlws
 江苏卫视,http://150.158.112.123/%E5%85%AC%E4%BC%97%E5%8F%B7~%E7%8E%89%E7%8E%89%E8%BD%AF%E4%BB%B6%E5%BA%93/mg.php?id=jsws
 江苏卫视,http://211.101.234.24:866/aishang/migu.php/migu.php?id=jsws
 江苏卫视,http://kxrj.site:64325/86/mg.php?id=jsws
@@ -1879,6 +1885,7 @@ CCTV17,http://z.b.bkpcp.top/m.php?id=cctv17
 山西卫视,https://migu.188766.xyz/?migutoken=82053423a9ed3d839fbe6f76293c82fb&id=sxws&type=dy
 山西卫视,https://mursor.ottiptv.cc/gptv/SXWS.m3u8
 山西卫视,http://[2409:8087:1a15:10d1::38]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226392/index.m3u8
+山西卫视,http://cc02.tv12.xyz/8.m3u8
 陕西卫视,http://gat.bkpcp.top/ymg.php?id=sxws
 陕西卫视,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=sxws
 陕西卫视,http://211.101.234.24:866/aishang/migu.php/migu.php?id=sxws
@@ -1949,6 +1956,7 @@ CCTV17,http://z.b.bkpcp.top/m.php?id=cctv17
 深圳卫视,https://mursor.ottiptv.cc/mcp/shenzheng.m3u8?sign=f72d1597ba7be5ce6a0419777fcf75e0&tm=1757357234
 深圳卫视,https://zby.130519.xyz/PLTV/11/224/3221225728/index.m3u8
 深圳卫视,https://migu.188766.xyz/?migutoken=cc943582b116a04c2358140238a61d6b&id=szws&type=sz
+深圳卫视,https://tv.iill.top/x/szws
 四川卫视,http://nctv.top/IDOEPpiryt/migu.php?id=scws
 四川卫视,http://iptv.huuc.edu.cn/hls/schd.m3u8
 四川卫视,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226338/index.m3u8
@@ -1987,6 +1995,7 @@ CCTV17,http://z.b.bkpcp.top/m.php?id=cctv17
 四川卫视,http://[2409:8087:1a15:10d1::34]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8
 四川卫视,https://live.goodiptv.club/api/bestv.php?id=scwshd/8000000
 四川卫视,http://[2409:8087:1a0a:df::4031]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8
+四川卫视,https://tv.iill.top/x/scws
 天津卫视,http://[2409:8087:1a01:df::4030]:80/TVOD/88888888/224/3221225972/main.m3u8
 天津卫视,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226459/index.m3u8
 天津卫视,http://[2409:8087:1a0a:df::404b]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226459/index.m3u8
@@ -2036,6 +2045,7 @@ CCTV17,http://z.b.bkpcp.top/m.php?id=cctv17
 天津卫视,https://live.goodiptv.club/api/bestv.php?id=tjwshd8m/8000000
 天津卫视,http://[2409:8087:1a0a:df::4031]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226459/index.m3u8
 天津卫视,https://zby.130519.xyz/PLTV/11/224/3221225742/index.m3u8
+天津卫视,https://tv.iill.top/x/tjws
 西藏卫视,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=xzws
 西藏卫视,http://dd.ddzb.fun/php/migu.php?id=xzws
 西藏卫视,http://tvbox6.icu/tv/migu.php?id=xzws
@@ -2068,6 +2078,7 @@ CCTV17,http://z.b.bkpcp.top/m.php?id=cctv17
 西藏卫视,https://zby.130519.xyz/PLTV/11/224/3221225767/index.m3u8
 西藏卫视,http://[2409:8087:1a15:10d1::39]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226433/index.m3u8
 西藏卫视,http://k.061899.xyz/m.php?id=xzws
+西藏卫视,http://cc02.tv12.xyz/9.m3u8
 新疆卫视,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=xjws
 新疆卫视,http://dd.ddzb.fun/php/migu.php?id=xjws
 新疆卫视,http://tvbox6.icu/tv/migu.php?id=xjws
@@ -2101,6 +2112,7 @@ CCTV17,http://z.b.bkpcp.top/m.php?id=cctv17
 新疆卫视,http://live.catvod.com/catvod.php?id=xjws
 新疆卫视,https://migu.188766.xyz/?migutoken=4fb7d9d1f9961c4883eb81633d5c3586&id=%E6%96%B0%E7%96%86%E5%8D%AB%E8%A7%86&pp=1
 新疆卫视,https://mursor.ottiptv.cc/mcp/xinjiang.m3u8?sign=c847d1087770160896793c8e5913abd8&tm=1757357234
+新疆卫视,http://cc02.tv12.xyz/10.m3u8
 云南卫视,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=ynws
 云南卫视,http://dd.ddzb.fun/php/migu.php?id=ynws
 云南卫视,http://tvbox6.icu/tv/migu.php?id=ynws
@@ -2237,6 +2249,7 @@ CCTV17,http://z.b.bkpcp.top/m.php?id=cctv17
 重庆卫视,https://live.goodiptv.club/api/bestv.php?id=cqws8m/8000000
 重庆卫视,https://mursor.ottiptv.cc/mcp/chongqing.m3u8?sign=e5890a1880d7b3f8d8e90e8297bf565e&tm=1757357234
 重庆卫视,https://zby.130519.xyz/PLTV/11/224/3221226171/index.m3u8
+重庆卫视,https://tv.iill.top/x/cqws
 
 山东地方频道,#genre#
 山东综艺,http://livealone302.iqilu.com/iqilu/zypd.m3u8
