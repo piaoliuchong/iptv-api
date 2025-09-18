@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-09-17 18:26:12,http://119.91.33.253/migu.php?id=cctv1
+2025-09-18 18:30:48,http://119.91.33.253/migu.php?id=cctv1
 
 央视频道,#genre#
 CCTV1,http://119.91.33.253/migu.php?id=cctv1
@@ -694,7 +694,7 @@ CCTV14,http://[2409:8087:1a15:10d1::36]/ottrrs.hl.chinamobile.com/PLTV/88888888/
 CCTV14,https://mgtv.ottiptv.cc/mg/624878440.m3u8?sign=aac4884f1d8dabe7f095d80eb98d84e8&tm=1757355490&token=335e6d89dc9fb51475ae6985deb694ac07e0bd4f4448c886b1f50bcf975f8cb96a3236f9630b19b16520e6236a3d2670fc9651f29647837d1e39e4027cf51691a69877060bb55c83b4e8aab3e2
 CCTV14,https://zby.130519.xyz/PLTV/11/224/3221225738/index.m3u8
 CCTV14,http://z.b.bkpcp.top/m.php?id=cctv14
-CCTV14,https://event.pull.hebtv.com/jishi/cp2.m3u8#rtsp://103.251.96.71/PLTV/88888888/224/3221225783/10000100000000060000000000726027_0.smil?icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;accountinfo=:20240213104135
+CCTV14,https://event.pull.hebtv.com/jishi/cp2.m3u8
 CCTV15,http://119.91.33.253/migu.php?id=cctv15
 CCTV15,http://ttkx.cc:1380/653哈哈/mg9.php?id=cctv15
 CCTV15,http://ak6668768.zicp.io:8814/live1015.m3u8#sop://api/migu.php?id=608807408#vjms://23.237.115.18:8500:3502/live/cid=465
@@ -1546,6 +1546,7 @@ CCTV17,http://z.b.bkpcp.top/m.php?id=cctv17
 吉林卫视,https://live.goodiptv.club/api/bestv.php?id=jlwshd8m/8000000
 吉林卫视,https://zby.130519.xyz/PLTV/11/224/3221226082/index.m3u8
 吉林卫视,https://tv.iill.top/x/jlws
+吉林卫视,http://cc02.tv12.xyz/5.m3u8
 江苏卫视,http://150.158.112.123/%E5%85%AC%E4%BC%97%E5%8F%B7~%E7%8E%89%E7%8E%89%E8%BD%AF%E4%BB%B6%E5%BA%93/mg.php?id=jsws
 江苏卫视,http://211.101.234.24:866/aishang/migu.php/migu.php?id=jsws
 江苏卫视,http://kxrj.site:64325/86/mg.php?id=jsws
