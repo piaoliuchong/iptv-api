@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-10-04 18:24:31,http://119.91.33.253/migu.php?id=cctv1
+2025-10-05 18:23:52,http://119.91.33.253/migu.php?id=cctv1
 
 央视频道,#genre#
 CCTV1,http://119.91.33.253/migu.php?id=cctv1
@@ -700,7 +700,7 @@ CCTV14,https://mgtv.ottiptv.cc/mg/624878440.m3u8?sign=aac4884f1d8dabe7f095d80eb9
 CCTV14,http://z.b.bkpcp.top/m.php?id=cctv14
 CCTV14,https://live.catvod.com/catvod_com.php?id=cctv14&token=4a605c7d52aaac7f5e721413fb2cd5c5040bd25a5063a8f3ab7412d972631eca%3A1758185546
 CCTV14,http://gslbmgsplive.miguvideo.com/wd_r2/2018/ocn/cctv14hd/2000/index.m3u8?msisdn=2025091900004946d465a81c60474c9a6a8b5b5918a841&mdspid=&spid=699004&netType=0&sid=5500212875&pid=2028597139&timestamp=20250919000049&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=624878440&ParentNodeID=-99&assertID=5500212875&client_ip=106.13.250.88&SecurityKey=20250919000049&promotionId=&mvid=5100001697&mcid=500020&playurlVersion=WX-A1-8.9.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=6ab5995424c1f4b4446b8d8595b1e7c5&ddCalcu=56cae7b1e54190b955945284dc81bf644b44
-CCTV14,https://event.pull.hebtv.com/jishi/cp2.m3u8
+CCTV14,https://event.pull.hebtv.com/jishi/cp2.m3u8#rtsp://103.251.96.71/PLTV/88888888/224/3221225783/10000100000000060000000000726027_0.smil?icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;accountinfo=:20240213104135
 CCTV15,http://119.91.33.253/migu.php?id=cctv15
 CCTV15,http://ttkx.cc:1380/653哈哈/mg9.php?id=cctv15
 CCTV15,http://ak6668768.zicp.io:8814/live1015.m3u8#sop://api/migu.php?id=608807408#vjms://23.237.115.18:8500:3502/live/cid=465
