@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-10-09 18:28:44,http://119.91.33.253/migu.php?id=cctv1
+2025-10-10 18:26:31,http://119.91.33.253/migu.php?id=cctv1
 
 央视频道,#genre#
 CCTV1,http://119.91.33.253/migu.php?id=cctv1
@@ -60,6 +60,7 @@ CCTV2,http://tvbox6.icu/tv/migu.php?id=cctv2
 CCTV2,http://211.101.234.24:866/aishang/migu.php/migu.php?id=cctv2
 CCTV2,http://nctv.top/IDOEPpiryt/migu.php?id=cctv2
 CCTV2,http://api.mytv666.top/api/migu.php?id=CCTV2财经&type=1&auth_key=6230e745cab794f673f0d639d688ba8fea822ae2fdbc7fc764554276357715ae&t=1746202402&session=1015604b8e4ebb3e784ae1e6158f4b36
+CCTV2,http://8.138.7.223/tv/mgitv.php?id=10
 CCTV2,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/yinhe/88888888/8/3221225588/index.m3u8
 CCTV2,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226540/index.m3u8
 CCTV2,http://iptv.huuc.edu.cn/hls/cctv2hd.m3u8
@@ -101,7 +102,6 @@ CCTV2,https://tv-1.iill.top/migu/cctv2
 CCTV2,http://free.cnlive.club/channel/47d01112/index.m3u8?q=1754617188750
 CCTV2,http://z.b.bkpcp.top/m.php?id=cctv2
 CCTV2,http://[2409:8087:1a15:10d1::38]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
-CCTV2,https://live.goodiptv.club/api/bestv.php?id=cctv2hd8m/8000000
 CCTV3,http://119.91.33.253/migu.php?id=cctv3
 CCTV3,http://ttkx.cc:1380/653哈哈/mg9.php?id=cctv3
 CCTV3,http://kxrj.site:64325/86/mg.php?id=cctv3
@@ -159,7 +159,6 @@ CCTV4,http://nctv.top/IDOEPpiryt/migu.php?id=cctv4o
 CCTV4,http://api.mytv666.top/api/migu.php?id=CCTV4中文国际&type=1&auth_key=6230e745cab794f673f0d639d688ba8fea822ae2fdbc7fc764554276357715ae&t=1746202402&session=1015604b8e4ebb3e784ae1e6158f4b36
 CCTV4,http://tvbox6.icu/tv/migu.php?id=cctv4a
 CCTV4,http://211.101.234.24:866/aishang/migu.php/migu.php?id=cctv4
-CCTV4,http://8.138.7.223/tv/mgitv.php?id=17
 CCTV4,http://[2409:8087:1:20:20::29]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226335/1.m3u8?servicetype=1&accountinfo=%7E%7EV2.0%7EBFJ5gRpm8ntK8JEFPZOhLQ%7EPepnxHHB2d6Hk2dZWM77MyFlBN5q1KnYLvimM9pqT7EfCf-e5nKehMQzrOBwWduf%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3A20240420192542%2C%2C%2C20240420192542%2C%2C10001000275495%2C-1%2C0%2C1%2C-1%2C%2C2%2C2201300%2C%2C%2C2%2C%2C%2CEND&GuardEncType=2
 CCTV4,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226335/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EBFJ5gRpm8ntK8JEFPZOhLQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 CCTV4,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000002000031664
@@ -201,6 +200,7 @@ CCTV4,http://free.cnlive.club/channel/7a879c85/index.m3u8?q=1753234122802
 CCTV4,http://bailudz.top:1236/111/hahahaha.php?id=cctv4
 CCTV4,https://mursor.ottiptv.cc/gptv/G_CCTV-4-MD.m3u8
 CCTV4,http://[2409:8087:1a15:10d1::38]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
+CCTV4,https://live.goodiptv.club/api/bestv.php?id=cctv4hd8m/8000000
 CCTV5,http://119.91.33.253/migu.php?id=cctv5
 CCTV5,http://ttkx.cc:1380/653哈哈/mg9.php?id=cctv5
 CCTV5,http://kxrj.site:64325/86/mg.php?id=cctv5
@@ -2064,6 +2064,7 @@ CCTV17,http://gslbmgsplive.miguvideo.com/migu/kailu/20200324/cctv17hd/51/index.m
 天津卫视,https://live.goodiptv.club/api/bestv.php?id=tjwshd8m/8000000
 天津卫视,http://[2409:8087:1a0a:df::4031]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226459/index.m3u8
 天津卫视,https://tv.iill.top/x/tjws
+天津卫视,https://jzb.wwkejishe.top/?id=611
 西藏卫视,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=xzws
 西藏卫视,http://dd.ddzb.fun/php/migu.php?id=xzws
 西藏卫视,http://tvbox6.icu/tv/migu.php?id=xzws
@@ -2270,6 +2271,7 @@ CCTV17,http://gslbmgsplive.miguvideo.com/migu/kailu/20200324/cctv17hd/51/index.m
 重庆卫视,https://mursor.ottiptv.cc/mcp/chongqing.m3u8?sign=e5890a1880d7b3f8d8e90e8297bf565e&tm=1757357234
 重庆卫视,https://tv.iill.top/x/cqws
 重庆卫视,https://cc06.tv12.xyz/34.m3u8
+重庆卫视,https://jzb.wwkejishe.top/?id=607
 
 山东地方频道,#genre#
 山东综艺,http://livealone302.iqilu.com/iqilu/zypd.m3u8
