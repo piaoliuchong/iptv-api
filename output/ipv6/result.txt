@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-10-11 18:27:31,http://119.91.33.253/migu.php?id=cctv1
+2025-10-12 18:25:38,http://119.91.33.253/migu.php?id=cctv1
 
 央视频道,#genre#
 CCTV1,http://119.91.33.253/migu.php?id=cctv1
@@ -834,6 +834,7 @@ CCTV17,https://cc06.tv12.xyz/17.m3u8
 CCTV17,https://mgtv.ottiptv.cc/mg/673168256.m3u8?sign=aeca6b4541652649f7ad0464491552da&tm=1757355490&token=7d018d226efc6b82991b1800ffa753614529911f098dd4d317096e9fb038973ce7fbaf1797f22186dc6ad88e6342ea90d73f8d1a59b88920ea6d692bf3e46ad5f35de5a72bc36dea0da43864ba
 CCTV17,http://z.b.bkpcp.top/m.php?id=cctv17
 CCTV17,http://gslbmgsplive.miguvideo.com/migu/kailu/20200324/cctv17hd/51/index.m3u8?msisdn=20250919000049751f287f4e1649da956f51c95fea353e&mdspid=&spid=699004&netType=0&sid=5501083631&pid=2028597139&timestamp=20250919000049&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=673168256&ParentNodeID=-99&assertID=5501083631&client_ip=106.13.250.88&SecurityKey=20250919000049&promotionId=&mvid=5102910396&mcid=500020&playurlVersion=WX-A1-8.9.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=262e45944f558149ef246e2dab773377&ddCalcu=7276e3213e374075b9a4d42fe5654821f4e9
+CCTV17,https://jzb.wwkejishe.top/?id=594
 
 卫视频道,#genre#
 安徽卫视,http://nctv.top/IDOEPpiryt/migu.php?id=ahws
@@ -1073,6 +1074,7 @@ CCTV17,http://gslbmgsplive.miguvideo.com/migu/kailu/20200324/cctv17hd/51/index.m
 甘肃卫视,https://live.goodiptv.club/api/bestv.php?id=gswshd8m/8000000
 甘肃卫视,http://[2409:8087:1a15:10d1::31]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225633/index.m3u8
 甘肃卫视,https://cc06.tv12.xyz/44.m3u8
+甘肃卫视,http://dsk.cc/php/xxtv.php?id=gsws
 广东卫视,http://150.158.112.123/%E5%85%AC%E4%BC%97%E5%8F%B7~%E7%8E%89%E7%8E%89%E8%BD%AF%E4%BB%B6%E5%BA%93/mg.php?id=gdws
 广东卫视,http://nctv.top/IDOEPpiryt/migu.php?id=gdws
 广东卫视,http://ttkx.cc:1380/653哈哈/mg9.php?id=gdws
@@ -1167,6 +1169,7 @@ CCTV17,http://gslbmgsplive.miguvideo.com/migu/kailu/20200324/cctv17hd/51/index.m
 广西卫视,https://tv.iill.top/x/gxws
 广西卫视,https://live.catvod.com/catvod_com.php?id=guangxi&token=0578c00aea330fed291c992ec7c3b2d7829fa4968b53c8452edbffb501242059%3A1758185546
 广西卫视,https://cc06.tv12.xyz/46.m3u8
+广西卫视,http://dsk.cc/php/xxtv.php?id=gxws
 贵州卫视,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=gzws
 贵州卫视,http://dd.ddzb.fun/php/migu.php?id=gzws
 贵州卫视,http://tvbox6.icu/tv/migu.php?id=gzws
@@ -1214,6 +1217,8 @@ CCTV17,http://gslbmgsplive.miguvideo.com/migu/kailu/20200324/cctv17hd/51/index.m
 贵州卫视,https://live.goodiptv.club/api/bestv.php?id=gzwshd8m/8000000
 贵州卫视,https://tv.iill.top/x/gzws
 贵州卫视,https://cc06.tv12.xyz/48.m3u8
+贵州卫视,http://dsk.cc/php/xxtv.php?id=gzws
+贵州卫视,https://jzb.wwkejishe.top/?id=619
 海南卫视,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=hinws
 海南卫视,http://kxrj.site:64325/86/mg.php?id=hinws
 海南卫视,http://dd.ddzb.fun/php/migu.php?id=hinws
@@ -1772,6 +1777,7 @@ CCTV17,http://gslbmgsplive.miguvideo.com/migu/kailu/20200324/cctv17hd/51/index.m
 宁夏卫视,https://migu.188766.xyz/?migutoken=c4dc8d5ba86b582a67f4146af2aaf463&id=nxws_hd&type=sz
 宁夏卫视,https://mursor.ottiptv.cc/mcp/ningxia.m3u8?sign=9ee8060c5a1049f6dc206ffc742a54e8&tm=1757357234
 宁夏卫视,https://cc06.tv12.xyz/96.m3u8
+宁夏卫视,http://dsk.cc/php/xxtv.php?id=nxws
 青海卫视,http://150.158.112.123/%E5%85%AC%E4%BC%97%E5%8F%B7~%E7%8E%89%E7%8E%89%E8%BD%AF%E4%BB%B6%E5%BA%93/mg.php?id=qhws
 青海卫视,http://kxrj.site:64325/86/mg.php?id=qhws
 青海卫视,http://dd.ddzb.fun/php/migu.php?id=qhws
@@ -1900,6 +1906,7 @@ CCTV17,http://gslbmgsplive.miguvideo.com/migu/kailu/20200324/cctv17hd/51/index.m
 山西卫视,http://[2409:8087:1a15:10d1::38]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226392/index.m3u8
 山西卫视,http://cc02.tv12.xyz/8.m3u8
 山西卫视,https://cc06.tv12.xyz/107.m3u8
+山西卫视,https://jzb.wwkejishe.top/?id=624
 陕西卫视,http://gat.bkpcp.top/ymg.php?id=sxws
 陕西卫视,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=sxws
 陕西卫视,http://211.101.234.24:866/aishang/migu.php/migu.php?id=sxws
@@ -1974,6 +1981,7 @@ CCTV17,http://gslbmgsplive.miguvideo.com/migu/kailu/20200324/cctv17hd/51/index.m
 深圳卫视,https://tv.iill.top/x/szws
 深圳卫视,https://live.catvod.com/catvod_com.php?id=shenzhen&token=f31819cb9ab6c96a1652726af8311a2d32b42cf73e8950d8a677dcaa93963c5b%3A1758185546
 深圳卫视,https://cc06.tv12.xyz/108.m3u8
+深圳卫视,http://dsk.cc/php/xxtv.php?id=szws
 四川卫视,http://nctv.top/IDOEPpiryt/migu.php?id=scws
 四川卫视,http://iptv.huuc.edu.cn/hls/schd.m3u8
 四川卫视,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226338/index.m3u8
@@ -2134,6 +2142,7 @@ CCTV17,http://gslbmgsplive.miguvideo.com/migu/kailu/20200324/cctv17hd/51/index.m
 新疆卫视,http://cc02.tv12.xyz/10.m3u8
 新疆卫视,https://cc06.tv12.xyz/109.m3u8
 新疆卫视,https://jzb.wwkejishe.top/?id=623
+新疆卫视,http://dsk.cc/php/xxtv.php?id=xjws
 云南卫视,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=ynws
 云南卫视,http://dd.ddzb.fun/php/migu.php?id=ynws
 云南卫视,http://tvbox6.icu/tv/migu.php?id=ynws
@@ -2272,6 +2281,7 @@ CCTV17,http://gslbmgsplive.miguvideo.com/migu/kailu/20200324/cctv17hd/51/index.m
 重庆卫视,https://tv.iill.top/x/cqws
 重庆卫视,https://cc06.tv12.xyz/34.m3u8
 重庆卫视,https://jzb.wwkejishe.top/?id=607
+重庆卫视,http://dsk.cc/php/xxtv.php?id=cqws
 
 山东地方频道,#genre#
 山东综艺,http://livealone302.iqilu.com/iqilu/zypd.m3u8
@@ -2510,6 +2520,7 @@ AMC电影,https://tv.iill.top/litv/4gtv-4gtv017
 卡酷少儿,http://[2409:8087:5e08:25::16]:6610/200000001898/460000089800010081/1.m3u8
 卡酷少儿,https://migu.188766.xyz/?migutoken=1023983db6b5249e61d4950c1654cd84&id=%E5%8C%97%E4%BA%AC%E5%8D%A1%E9%85%B7%E5%B0%91%E5%84%BF&type=yy
 卡酷少儿,https://cc06.tv12.xyz/29.m3u8
+卡酷少儿,http://dsk.cc/bjtv/btime.php?id=bjkk
 广东少儿,http://php.jdshipin.com:8880/chudian.php?id=gdse
 浙江少儿,https://ct-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8#https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8#http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8#https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?
 浙江少儿,http://ali-vl.cztv.com/channels/lantian/channel008/360p.m3u8?a=1000&amp;d=83b26bacf5397c013aff782b2c4287d0&amp;k=c99bdac76cff6ddc27e750ba689b7d5b&amp;t=1704368408
