@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-10-20 18:27:56,http://119.91.33.253/migu.php?id=cctv1
+2025-10-21 18:27:12,http://119.91.33.253/migu.php?id=cctv1
 
 央视频道,#genre#
 CCTV1,http://119.91.33.253/migu.php?id=cctv1
@@ -1988,6 +1988,7 @@ CCTV17,https://jzb.wwkejishe.top/?id=594
 深圳卫视,https://live.catvod.com/catvod_com.php?id=shenzhen&token=f31819cb9ab6c96a1652726af8311a2d32b42cf73e8950d8a677dcaa93963c5b%3A1758185546
 深圳卫视,https://cc06.tv12.xyz/108.m3u8
 深圳卫视,http://dsk.cc/php/xxtv.php?id=szws
+深圳卫视,https://jzb.wwkejishe.top/?id=606
 四川卫视,http://nctv.top/IDOEPpiryt/migu.php?id=scws
 四川卫视,http://iptv.huuc.edu.cn/hls/schd.m3u8
 四川卫视,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226338/index.m3u8
