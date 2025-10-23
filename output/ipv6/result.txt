@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-10-22 18:28:34,http://119.91.33.253/migu.php?id=cctv1
+2025-10-23 18:27:21,http://119.91.33.253/migu.php?id=cctv1
 
 央视频道,#genre#
 CCTV1,http://119.91.33.253/migu.php?id=cctv1
@@ -1783,6 +1783,7 @@ CCTV17,https://jzb.wwkejishe.top/?id=594
 宁夏卫视,https://mursor.ottiptv.cc/mcp/ningxia.m3u8?sign=9ee8060c5a1049f6dc206ffc742a54e8&tm=1757357234
 宁夏卫视,https://cc06.tv12.xyz/96.m3u8
 宁夏卫视,http://dsk.cc/php/xxtv.php?id=nxws
+宁夏卫视,https://shyd.695847.xyz/cms001/ch00000090990000001074/index.m3u8?IASHttpSessionId=RR4967720251014100028031761&ispcode=12
 青海卫视,http://150.158.112.123/%E5%85%AC%E4%BC%97%E5%8F%B7~%E7%8E%89%E7%8E%89%E8%BD%AF%E4%BB%B6%E5%BA%93/mg.php?id=qhws
 青海卫视,http://kxrj.site:64325/86/mg.php?id=qhws
 青海卫视,http://dd.ddzb.fun/php/migu.php?id=qhws
@@ -2114,6 +2115,7 @@ CCTV17,https://jzb.wwkejishe.top/?id=594
 西藏卫视,http://k.061899.xyz/m.php?id=xzws
 西藏卫视,http://cc02.tv12.xyz/9.m3u8
 西藏卫视,https://cc06.tv12.xyz/112.m3u8
+西藏卫视,https://shyd.695847.xyz/cms001/ch00000090990000001072/index.m3u8?IASHttpSessionId=RR4967720251014100028031761&ispcode=12
 新疆卫视,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=xjws
 新疆卫视,http://dd.ddzb.fun/php/migu.php?id=xjws
 新疆卫视,http://tvbox6.icu/tv/migu.php?id=xjws
