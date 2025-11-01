@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-10-31 18:29:17,http://119.91.33.253/migu.php?id=cctv1
+2025-11-01 18:28:02,http://119.91.33.253/migu.php?id=cctv1
 
 央视频道,#genre#
 CCTV1,http://119.91.33.253/migu.php?id=cctv1
@@ -2153,6 +2153,7 @@ CCTV17,https://jzb.wwkejishe.top/?id=594
 新疆卫视,https://cc06.tv12.xyz/109.m3u8
 新疆卫视,https://jzb.wwkejishe.top/?id=623
 新疆卫视,http://dsk.cc/php/xxtv.php?id=xjws
+新疆卫视,https://shyd.695847.xyz/cms001/ch00000090990000001065/index.m3u8?IASHttpSessionId=RR4967720251014100028031761&ispcode=12
 云南卫视,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=ynws
 云南卫视,http://dd.ddzb.fun/php/migu.php?id=ynws
 云南卫视,http://tvbox6.icu/tv/migu.php?id=ynws
