@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-11-02 18:25:27,http://119.91.33.253/migu.php?id=cctv1
+2025-11-03 18:31:12,http://119.91.33.253/migu.php?id=cctv1
 
 央视频道,#genre#
 CCTV1,http://119.91.33.253/migu.php?id=cctv1
@@ -1268,7 +1268,7 @@ CCTV17,https://iptv.catvod.com/live.php?id=CCTV17%E5%86%9C%E4%B8%9A%E5%86%9C%E6%
 海南卫视,https://live2.hnntv.cn/srs/tv/lywsgq.m3u8?_upt=e36a87a81752350795
 海南卫视,http://live.catvod.com/catvod.php?id=hinws
 海南卫视,http://bailudz.top:1236/111/hahahaha.php?id=hinws
-海南卫视,https://migu.188766.xyz/?migutoken=69debb77d2c53696ef316dee260f8e78&id=hainwshd_hb&type=sz
+海南卫视,https://migu.188766.xyz/?migutoken=ca28ddffbd6df48a8f02c2344b52ffaa&id=%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86&type=yy
 海南卫视,https://live.goodiptv.club/api/bestv.php?id=hainanwshd8m/8000000
 海南卫视,http://[2409:8087:1a0a:df::4031]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
 海南卫视,https://mursor.ottiptv.cc/mcp/hainan.m3u8?sign=1d34d2d748334d8698e9b6e53306c4d7&tm=1757357234
@@ -1562,7 +1562,7 @@ CCTV17,https://iptv.catvod.com/live.php?id=CCTV17%E5%86%9C%E4%B8%9A%E5%86%9C%E6%
 吉林卫视,https://epg.pw/stream/f845c6ed628a3f947bccdcffba4f8384f1d72236bebee05710123de7850c62b7.m3u8
 吉林卫视,http://live.catvod.com/catvod.php?id=jlws
 吉林卫视,http://bailudz.top:1236/111/hahahaha.php?id=jlws
-吉林卫视,https://migu.188766.xyz/?migutoken=1c369c0e4817dcdb3b32d76350c49590&id=jlws&type=dy
+吉林卫视,https://migu.188766.xyz/?migutoken=6255de4ceae5a943ec352b5f5f812034&id=%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86&type=yy
 吉林卫视,https://mursor.ottiptv.cc/mcp/jiling.m3u8?sign=59f1150cbf76dd0508ee4659d754f4bd&tm=1757357234
 吉林卫视,http://[2409:8087:1a15:10d1::36]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
 吉林卫视,https://live.goodiptv.club/api/bestv.php?id=jlwshd8m/8000000
@@ -1715,7 +1715,7 @@ CCTV17,https://iptv.catvod.com/live.php?id=CCTV17%E5%86%9C%E4%B8%9A%E5%86%9C%E6%
 辽宁卫视,https://epg.pw/stream/21ba42e25e1f832430d912489ac2a4370c967f7c9a824da311f3f77bc40e1b1c.m3u8
 辽宁卫视,http://live.catvod.com/catvod.php?id=lnws
 辽宁卫视,http://bailudz.top:1236/111/hahahaha.php?id=lnws
-辽宁卫视,https://migu.188766.xyz/?migutoken=e0fef7944de9a4aac7a70ff16b6a7a82&id=lnws&type=dy
+辽宁卫视,https://migu.188766.xyz/?migutoken=b7a9856a1b005b6b8b1c0bcba875652f&id=%E8%BE%BD%E5%AE%81%E5%8D%AB%E8%A7%86&type=yy
 辽宁卫视,https://piccpndks.v.kcdnvip.com/audio/liaoning_2/index.m3u8
 辽宁卫视,http://[2409:8087:1a15:10d1::37]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226546/index.m3u8
 辽宁卫视,https://live.goodiptv.club/api/bestv.php?id=lnwshd8m/8000000
@@ -1754,6 +1754,7 @@ CCTV17,https://iptv.catvod.com/live.php?id=CCTV17%E5%86%9C%E4%B8%9A%E5%86%9C%E6%
 内蒙古卫视,https://www.nmtv.cn/liveTv?tag=内蒙古卫视
 内蒙古卫视,http://[2409:8087:1a15:10d1::35]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226389/index.m3u8
 内蒙古卫视,https://cc06.tv12.xyz/94.m3u8
+内蒙古卫视,https://iptv.catvod.com/live.php?id=%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86
 宁夏卫视,http://dd.ddzb.fun/php/migu.php?id=nxws
 宁夏卫视,http://tvbox6.icu/tv/migu.php?id=nxws
 宁夏卫视,http://nctv.top/IDOEPpiryt/migu.php?id=nxws
@@ -1819,7 +1820,7 @@ CCTV17,https://iptv.catvod.com/live.php?id=CCTV17%E5%86%9C%E4%B8%9A%E5%86%9C%E6%
 青海卫视,https://epg.pw/stream/e0551db6bc9512b248a2da5f2455dee2c1d3164fb9ece82daa77b0c1b7ffb8a4.m3u8
 青海卫视,http://live.catvod.com/catvod.php?id=qhws
 青海卫视,http://bailudz.top:1236/111/hahahaha.php?id=qhws
-青海卫视,https://migu.188766.xyz/?migutoken=c17ed6c28544e15c4e7c1bcaf2bc659e&id=qhws&type=dy
+青海卫视,https://migu.188766.xyz/?migutoken=189fb6da5eb262b0e17dc19d21848b03&id=%E9%9D%92%E6%B5%B7%E5%8D%AB%E8%A7%86&type=yy
 青海卫视,http://[2409:8087:1a15:10d1::39]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226323/index.m3u8
 青海卫视,http://gslbmgsplive.miguvideo.com/envivo_w/2018/SD/qinghai/1000/index.m3u8?msisdn=20251029040046431c8f0e422b4f5da6babf9ca16f7f8c&mdspid=&spid=600633&netType=0&sid=5910022166&pid=2028597139&timestamp=20251029040046&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=947472506&ParentNodeID=-99&assertID=5910022166&client_ip=106.13.250.88&SecurityKey=20251029040046&promotionId=&mvid=5900004353&mcid=500020&playurlVersion=ZQ-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=bd9a09844e14e3131a2854069da28006&ddCalcu=6b0de0928a7200a9d894640e41548e23a113
 青海卫视,https://cc06.tv12.xyz/97.m3u8
@@ -2311,6 +2312,8 @@ CCTV17,https://iptv.catvod.com/live.php?id=CCTV17%E5%86%9C%E4%B8%9A%E5%86%9C%E6%
 山东教育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225655/index.m3u8
 山东教育,https://mursor.ottiptv.cc/gptv/G_SDETV.m3u8
 山东教育,http://gslbmgsplive.miguvideo.com/migu/kailu/sdjyws/51/20250915/index.m3u8?msisdn=20251029040052f3b1299c02cc4b25b8e183dfe6d924d7&mdspid=&spid=600697&netType=0&sid=5910022199&pid=2028597139&timestamp=20251029040052&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=609154353&ParentNodeID=-99&assertID=5910022199&client_ip=106.13.250.88&SecurityKey=20251029040052&promotionId=&mvid=2200208305&mcid=500020&playurlVersion=ZQ-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=e2484d40158ff113c7140d14e5ec5f58&ddCalcu=8e52ef42589c40ed54e04115d80f4f1171c3
+山东教育,https://migu.188766.xyz/?migutoken=83580d3d0d071e9163b5aa4d5463487b&id=%E5%B1%B1%E4%B8%9C%E6%95%99%E8%82%B2&type=yy
+山东教育,https://iptv.catvod.com/live.php?id=%E5%B1%B1%E4%B8%9C%E6%95%99%E8%82%B2
 山东生活,http://livealone302.iqilu.com/iqilu/shpd.m3u8
 山东生活,http://ls.qingting.fm/live/60260.m3u8
 山东生活,http://livealone.iqilu.com/iqilu/shpdhjOF03kn.m3u8
@@ -2343,6 +2346,7 @@ CHC动作电影,https://mursor.ottiptv.cc/migu/644368714.m3u8?migutoken=570a517d
 CHC动作电影,https://mgtv.ottiptv.cc/mg/644368714.m3u8?sign=ae388878457cfa64d2cbf942fa5a7ca1&tm=1757355490&token=ef4e4e517ca5015200acc65759c0f6b7f6f91eb4667c2c1b4228a85639e2c822758f59c31d0e0e0020d45446b9fd1fffebb2c71df0745493ce4c06f11a015656ac64b97cc81bfe0773f54b5024
 CHC动作电影,https://gdcucc.v1.mk/gdcucc/chcdzdy.m3u8
 CHC动作电影,https://shyd.695847.xyz/cms001/ch00000090990000001580/index.m3u8?IASHttpSessionId=RR4967720251014100028031761&ispcode=12
+CHC动作电影,https://iptv.catvod.com/live.php?id=CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1
 CHC家庭影院,http://gat.bkpcp.top/ymg.php?id=jtyy
 CHC家庭影院,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=chcjtdy
 CHC家庭影院,http://tvbox6.icu/tv/migu.php?id=chcjtdy
@@ -2360,6 +2364,7 @@ CHC家庭影院,https://tv-1.iill.top/migu/chcjt
 CHC家庭影院,https://mursor.ottiptv.cc/migu/644368373.m3u8?migutoken=eda0112e6a1f0fac1c6d7d1bba6e6bf6f4bad80594800fe209a244e76507b80132e671dc1045ca63e497f73f714e92acba8837381116572cad1ef61ce9ddcc4ec333dd4414d08865970e33e630
 CHC家庭影院,https://mgtv.ottiptv.cc/mg/644368373.m3u8?sign=bda539eec2bb0ede8adbb107fcdc9993&tm=1757355490&token=072f4527703a45daa10a910c53fd653d5df5967341cf62fd859165a75cc3b6f2ae98138455253d9c9ac756a91e35dab648886b61f038012df542942ca2502a10bbd4d0abfb15d675d25435f808
 CHC家庭影院,https://gdcucc.v1.mk/gdcucc/chcjtyy.m3u8
+CHC家庭影院,https://iptv.catvod.com/live.php?id=CHC%E5%AE%B6%E5%BA%AD%E5%BD%B1%E9%99%A2
 CHC影迷电影,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002029/index.m3u8?IASHttpSessionId=
 CHC影迷电影,http://eastscreen.tv/ooooo.php?id=chchd
 CHC影迷电影,https://tv.iill.top/migu/chcym
@@ -2473,6 +2478,7 @@ AMC电影,https://tv.iill.top/litv/4gtv-4gtv017
 嘉佳卡通,https://mgtv.ottiptv.cc/mg/614952364.m3u8?sign=8a898b1ba86677347d4eea91c58da7dc&tm=1757355490&token=784fa1d184a6530467119d16389b6c38a0588a85b7fca741e703ec88ac38219cb83f761fa123db11cdb2ddb6451a47afcac314f30dd589fae886bd5f80a91b76ba418c49390e0e2828cedcc208
 嘉佳卡通,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225653/index.m3u8?
 嘉佳卡通,http://gslbmgsplive.miguvideo.com/wd_r1/2018/nfmedia/jjkt/1000/index.m3u8?msisdn=202510290400533cd60cda1d3b45dcb82099c42e8aa3fd&mdspid=&spid=699054&netType=0&sid=2206172388&pid=2028597139&timestamp=20251029040053&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=614952364&ParentNodeID=-99&assertID=2206172388&client_ip=106.13.250.88&SecurityKey=20251029040053&promotionId=&mvid=2206172388&mcid=500020&playurlVersion=ZQ-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=0f4e5ae509f5139569e7b24b5b76fbcc&ddCalcu=c0cfeb42fe46507abe55b0492fb571e39965
+嘉佳卡通,https://iptv.catvod.com/live.php?id=%E5%98%89%E4%BD%B3%E5%8D%A1%E9%80%9A
 金鹰卡通,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/3221225653/2.m3u8
 金鹰卡通,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225744/index.m3u8
 金鹰卡通,http://[2409:8087:5e08:24::2]:6610/000000001000/5000000006000040024/index.m3u8?channel-id=bestzb&Contentid=5000000006000040024&livemode=1&stbId=3
@@ -2516,6 +2522,7 @@ AMC电影,https://tv.iill.top/litv/4gtv-4gtv017
 哈哈炫动,http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001232/1.m3u8
 哈哈炫动,http://[2409:8087:1a15:10d1::39]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225657/index.m3u8
 哈哈炫动,http://[2409:8087:5e08:25::16]:6610/200000001898/460000089800010117/1.m3u8
+哈哈炫动,https://migu.188766.xyz/?migutoken=b43933d6b1c41ad0333c84f94a2ed9db&id=hhxd&type=sz
 动漫秀场,http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226197/index.m3u8
 动漫秀场,https://live.v1.mk/api/bestv.php?id=dmxc8m/8000000
 动漫秀场,http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000031113
