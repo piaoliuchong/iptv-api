@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-11-03 18:31:12,http://119.91.33.253/migu.php?id=cctv1
+2025-11-04 18:33:05,http://119.91.33.253/migu.php?id=cctv1
 
 央视频道,#genre#
 CCTV1,http://119.91.33.253/migu.php?id=cctv1
@@ -837,7 +837,7 @@ CCTV17,https://mgtv.ottiptv.cc/mg/673168256.m3u8?sign=aeca6b4541652649f7ad046449
 CCTV17,http://z.b.bkpcp.top/m.php?id=cctv17
 CCTV17,http://gslbmgsplive.miguvideo.com/migu/kailu/20200324/cctv17hd/51/index.m3u8?msisdn=202510290400430632a6b833ed4bf19093bc79e228f4bf&mdspid=&spid=699004&netType=0&sid=5501083631&pid=2028597139&timestamp=20251029040043&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=673168256&ParentNodeID=-99&assertID=5501083631&client_ip=106.13.250.88&SecurityKey=20251029040043&promotionId=&mvid=5102910396&mcid=500020&playurlVersion=ZQ-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=e5395b889f18e8c27bb5ebd29cde30ec&ddCalcu=cee5e032393e50dbc89829dfb1e85eb8bc72
 CCTV17,https://jzb.wwkejishe.top/?id=594
-CCTV17,https://iptv.catvod.com/live.php?id=CCTV17%E5%86%9C%E4%B8%9A%E5%86%9C%E6%9D%91
+CCTV17,https://iptv.catvod.com/live.php?id=CCTV-17%20%E5%86%9C%E4%B8%9A%E5%86%9C%E6%9D%91
 
 卫视频道,#genre#
 安徽卫视,http://nctv.top/IDOEPpiryt/migu.php?id=ahws
@@ -2479,6 +2479,7 @@ AMC电影,https://tv.iill.top/litv/4gtv-4gtv017
 嘉佳卡通,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225653/index.m3u8?
 嘉佳卡通,http://gslbmgsplive.miguvideo.com/wd_r1/2018/nfmedia/jjkt/1000/index.m3u8?msisdn=202510290400533cd60cda1d3b45dcb82099c42e8aa3fd&mdspid=&spid=699054&netType=0&sid=2206172388&pid=2028597139&timestamp=20251029040053&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=614952364&ParentNodeID=-99&assertID=2206172388&client_ip=106.13.250.88&SecurityKey=20251029040053&promotionId=&mvid=2206172388&mcid=500020&playurlVersion=ZQ-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=0f4e5ae509f5139569e7b24b5b76fbcc&ddCalcu=c0cfeb42fe46507abe55b0492fb571e39965
 嘉佳卡通,https://iptv.catvod.com/live.php?id=%E5%98%89%E4%BD%B3%E5%8D%A1%E9%80%9A
+嘉佳卡通,https://mgev.188766.xyz/?migutoken=c802218ef6d0ca5b6cea0915a71d3c62&id=gd_jjkt&type=sz
 金鹰卡通,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/3221225653/2.m3u8
 金鹰卡通,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225744/index.m3u8
 金鹰卡通,http://[2409:8087:5e08:24::2]:6610/000000001000/5000000006000040024/index.m3u8?channel-id=bestzb&Contentid=5000000006000040024&livemode=1&stbId=3
@@ -2618,5 +2619,6 @@ AMC电影,https://tv.iill.top/litv/4gtv-4gtv017
 广东体育,http://r.jdshipin.com/LiYdg
 广东体育,http://bxtv.3a.ink/api.php?id=gdty
 广东体育,https://cdn2.163189.xyz/live/gdty/stream.m3u8
+广东体育,https://mgev.188766.xyz/?migutoken=38f5dd71e8cfd78d819c05fc52e5e6d8&id=gd_gdty&type=sz
 山东体育,http://livealone302.iqilu.com/iqilu/typd.m3u8
 山东体育,http://livealone.iqilu.com/iqilu/typdhjOF03kn.m3u8
