@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-11-05 18:30:43,http://119.91.33.253/migu.php?id=cctv1
+2025-11-06 18:28:36,http://119.91.33.253/migu.php?id=cctv1
 
 央视频道,#genre#
 CCTV1,http://119.91.33.253/migu.php?id=cctv1
@@ -1830,6 +1830,7 @@ CCTV17,https://iptv.catvod.com/live.php?id=CCTV-17%20%E5%86%9C%E4%B8%9A%E5%86%9C
 青海卫视,https://cc06.tv12.xyz/97.m3u8
 青海卫视,https://jzb.wwkejishe.top/?id=605
 青海卫视,https://iptv.catvod.com/live.php?id=%E9%9D%92%E6%B5%B7%E5%8D%AB%E8%A7%86
+青海卫视,https://shyd.695847.xyz/cms001/ch00000090990000001450/index.m3u8?IASHttpSessionId=RR4967720251014100028031761&ispcode=12
 厦门卫视,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226542/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E0HuqirkTe1cAUljwazjNGw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMvSOYesmmWPPy5i3xS4Rsb%2CEND
 厦门卫视,http://[2409:8087:74F1:0021::0008]/270000001128/9900000058/index.m3u8
 厦门卫视,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226964/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
@@ -2627,5 +2628,7 @@ AMC电影,https://tv.iill.top/litv/4gtv-4gtv017
 广东体育,http://bxtv.3a.ink/api.php?id=gdty
 广东体育,https://cdn2.163189.xyz/live/gdty/stream.m3u8
 广东体育,https://mgev.188766.xyz/?migutoken=38f5dd71e8cfd78d819c05fc52e5e6d8&id=gd_gdty&type=sz
+广东体育,https://migu.188766.xyz/?migutoken=2d63190e8a98cb56e7125ae5ae935893&id=hk_gdty&type=dy
+广东体育,https://iptv.catvod.com/live.php?id=%E5%B9%BF%E4%B8%9C%E4%BD%93%E8%82%B2
 山东体育,http://livealone302.iqilu.com/iqilu/typd.m3u8
 山东体育,http://livealone.iqilu.com/iqilu/typdhjOF03kn.m3u8
