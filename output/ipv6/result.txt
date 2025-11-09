@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-11-08 18:26:29,http://119.91.33.253/migu.php?id=cctv1
+2025-11-09 18:24:41,http://119.91.33.253/migu.php?id=cctv1
 
 央视频道,#genre#
 CCTV1,http://119.91.33.253/migu.php?id=cctv1
@@ -1795,6 +1795,7 @@ CCTV17,https://shyd.695847.xyz/cms001/ch00000090990000001241/index.m3u8?IASHttpS
 宁夏卫视,http://dsk.cc/php/xxtv.php?id=nxws
 宁夏卫视,https://shyd.695847.xyz/cms001/ch00000090990000001074/index.m3u8?IASHttpSessionId=RR4967720251014100028031761&ispcode=12
 宁夏卫视,http://gslbmgsplive.miguvideo.com/envivo_x/2018/SD/ningxia/1000/index.m3u8?msisdn=20251108040034f4df3fb6f1a543e3b86c3ed52c79d541&mdspid=&spid=600697&netType=0&sid=5910022262&pid=2028597139&timestamp=20251108040034&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=738910535&ParentNodeID=-99&assertID=5910022262&client_ip=106.13.250.88&SecurityKey=20251108040034&promotionId=&mvid=5900004337&mcid=500020&playurlVersion=WX-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=2fb86d55ee6280e9b3b803e7606a1a10&ddCalcu=021feab0188a606d05657eee360288b03eb9
+宁夏卫视,https://iptv.catvod.com/live.php?id=%E5%AE%81%E5%A4%8F%E5%8D%AB%E8%A7%86
 青海卫视,http://150.158.112.123/%E5%85%AC%E4%BC%97%E5%8F%B7~%E7%8E%89%E7%8E%89%E8%BD%AF%E4%BB%B6%E5%BA%93/mg.php?id=qhws
 青海卫视,http://kxrj.site:64325/86/mg.php?id=qhws
 青海卫视,http://dd.ddzb.fun/php/migu.php?id=qhws
