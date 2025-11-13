@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-11-12 18:28:37,http://119.91.33.253/migu.php?id=cctv1
+2025-11-13 18:27:15,http://119.91.33.253/migu.php?id=cctv1
 
 央视频道,#genre#
 CCTV1,http://119.91.33.253/migu.php?id=cctv1
@@ -2417,6 +2417,7 @@ AMC电影,https://tv.iill.top/litv/4gtv-4gtv017
 龙华电影,https://smart.pendy.dpdns.org/Smart.php?id=xingwei_movie
 龙华电影,http://free.cnlive.club/channel/n5e8ca809.m3u8
 龙华电影,http://bxtv.757888.xyz/stream/bxtv/null-12/master.m3u8?u=bxtv&p=1416a274c445ae05b330fab65ee77ab0d02d18fb4c64dce55ec95cc245034ea7
+龙华电影,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=litv-longturn03
 周星驰,https://live.iill.top/huya/11342412
 周星驰,https://live.metshop.top/yy/1382736808
 周星星,https://www.goodiptv.club/huya/11342412
