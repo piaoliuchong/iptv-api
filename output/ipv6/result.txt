@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-11-14 18:27:38,http://119.91.33.253/migu.php?id=cctv1
+2025-11-15 18:24:06,http://119.91.33.253/migu.php?id=cctv1
 
 央视频道,#genre#
 CCTV1,http://119.91.33.253/migu.php?id=cctv1
@@ -1929,6 +1929,7 @@ CCTV17,https://shyd.695847.xyz/cms001/ch00000090990000001241/index.m3u8?IASHttpS
 山西卫视,https://cc06.tv12.xyz/107.m3u8
 山西卫视,https://jzb.wwkejishe.top/?id=624
 山西卫视,https://shyd.695847.xyz/cms001/ch00000090990000001070/index.m3u8?IASHttpSessionId=RR4967720251014100028031761&ispcode=12
+山西卫视,https://iptv.catvod.com/live.php?id=%E5%B1%B1%E8%A5%BF%E5%8D%AB%E8%A7%86
 陕西卫视,http://gat.bkpcp.top/ymg.php?id=sxws
 陕西卫视,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=sxws
 陕西卫视,http://211.101.234.24:866/aishang/migu.php/migu.php?id=sxws
@@ -2362,6 +2363,7 @@ CHC动作电影,https://mgtv.ottiptv.cc/mg/644368714.m3u8?sign=ae388878457cfa64d
 CHC动作电影,https://gdcucc.v1.mk/gdcucc/chcdzdy.m3u8
 CHC动作电影,https://shyd.695847.xyz/cms001/ch00000090990000001580/index.m3u8?IASHttpSessionId=RR4967720251014100028031761&ispcode=12
 CHC动作电影,https://iptv.catvod.com/live.php?id=CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1
+CHC动作电影,https://live.chinacert.cftest5.cn/mg/?id=644368714
 CHC家庭影院,http://gat.bkpcp.top/ymg.php?id=jtyy
 CHC家庭影院,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=chcjtdy
 CHC家庭影院,http://tvbox6.icu/tv/migu.php?id=chcjtdy
