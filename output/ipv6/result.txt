@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-11-15 18:24:06,http://119.91.33.253/migu.php?id=cctv1
+2025-11-16 18:24:48,http://119.91.33.253/migu.php?id=cctv1
 
 央视频道,#genre#
 CCTV1,http://119.91.33.253/migu.php?id=cctv1
@@ -2422,6 +2422,7 @@ AMC电影,https://tv.iill.top/litv/4gtv-4gtv017
 龙华电影,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=litv-longturn03
 周星驰,https://live.iill.top/huya/11342412
 周星驰,https://live.metshop.top/yy/1382736808
+周星驰电影,http://live.ottiptv.cc/huya/11342412
 周星星,https://www.goodiptv.club/huya/11342412
 美丽中国说,http://hls.cntv.myhwcdn.cn/asp/hls/4000/0303000a/3/default/8cdd688b04e4495ba1635e218419d6f9/4000.m3u8
 解说乌贼说电影,http://cfss.cc/cdn/hy/16604522.flv
