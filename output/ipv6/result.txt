@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-11-20 18:27:56,http://119.91.33.253/migu.php?id=cctv1
+2025-11-21 18:25:54,http://119.91.33.253/migu.php?id=cctv1
 
 央视频道,#genre#
 CCTV1,http://119.91.33.253/migu.php?id=cctv1
@@ -161,6 +161,7 @@ CCTV4,http://api.mytv666.top/api/migu.php?id=CCTV4中文国际&type=1&auth_key=6
 CCTV4,http://tvbox6.icu/tv/migu.php?id=cctv4a
 CCTV4,http://211.101.234.24:866/aishang/migu.php/migu.php?id=cctv4
 CCTV4,http://bxtv.3a.ink/migu.php?id=cctv4
+CCTV4,http://8.138.7.223/tv/mgitv.php?id=18
 CCTV4,http://[2409:8087:1:20:20::29]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226335/1.m3u8?servicetype=1&accountinfo=%7E%7EV2.0%7EBFJ5gRpm8ntK8JEFPZOhLQ%7EPepnxHHB2d6Hk2dZWM77MyFlBN5q1KnYLvimM9pqT7EfCf-e5nKehMQzrOBwWduf%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3A20240420192542%2C%2C%2C20240420192542%2C%2C10001000275495%2C-1%2C0%2C1%2C-1%2C%2C2%2C2201300%2C%2C%2C2%2C%2C%2CEND&GuardEncType=2
 CCTV4,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226335/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EBFJ5gRpm8ntK8JEFPZOhLQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 CCTV4,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000002000031664
@@ -201,7 +202,6 @@ CCTV4,https://migu.188766.xyz/?migutoken=70a2a5ae9e5a06c6ca70f4eaf92b205f&id=CCT
 CCTV4,http://free.cnlive.club/channel/7a879c85/index.m3u8?q=1753234122802
 CCTV4,http://bailudz.top:1236/111/hahahaha.php?id=cctv4
 CCTV4,https://mursor.ottiptv.cc/gptv/G_CCTV-4-MD.m3u8
-CCTV4,http://[2409:8087:1a15:10d1::38]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
 CCTV5,http://119.91.33.253/migu.php?id=cctv5
 CCTV5,http://ttkx.cc:1380/653哈哈/mg9.php?id=cctv5
 CCTV5,http://kxrj.site:64325/86/mg.php?id=cctv5
@@ -411,6 +411,7 @@ CCTV9,http://ttkx.cc:1380/653哈哈/mg9.php?id=cctv9
 CCTV9,http://nctv.top/IDOEPpiryt/migu.php?id=cctv9
 CCTV9,http://api.mytv666.top/api/migu.php?id=CCTV9纪录&type=1&auth_key=6230e745cab794f673f0d639d688ba8fea822ae2fdbc7fc764554276357715ae&t=1746202402&session=1015604b8e4ebb3e784ae1e6158f4b36
 CCTV9,http://bxtv.3a.ink/migu.php?id=cctv9
+CCTV9,http://8.138.7.223/tv/mgitv.php?id=47
 CCTV9,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221225734/index.m3u8
 CCTV9,http://iptv.huuc.edu.cn/hls/cctv9hd.m3u8
 CCTV9,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
@@ -451,7 +452,6 @@ CCTV9,https://live.goodiptv.club/api/bestv.php?id=cctv9hd8m/8000000
 CCTV9,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000505/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000505
 CCTV9,https://cc06.tv12.xyz/10.m3u8
 CCTV9,https://mgtv.ottiptv.cc/mg/673168140.m3u8?sign=d5ca88cb25847b4110bf2fdd2dc4d690&tm=1757355490&token=2159f2c2664990de1a87ac2ec8e79cd3d4e00b1002b6bd6f654a15f95b8e378a78b0433035b5dca2fa5e43c1ef012b807ff9b111bfb2899386df6feb29ee3a1c1c9fb803a7a0eba677e109f359
-CCTV9,http://z.b.bkpcp.top/m.php?id=cctv9
 CCTV10,http://119.91.33.253/migu.php?id=cctv10
 CCTV10,http://ttkx.cc:1380/653哈哈/mg9.php?id=cctv10
 CCTV10,http://kxrj.site:64325/86/mg.php?id=cctv10
