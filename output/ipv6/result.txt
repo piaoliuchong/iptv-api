@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-12-01 18:30:21,http://119.91.33.253/migu.php?id=cctv1
+2025-12-02 18:27:37,http://119.91.33.253/migu.php?id=cctv1
 
 央视频道,#genre#
 CCTV1,http://119.91.33.253/migu.php?id=cctv1
@@ -2513,6 +2513,7 @@ AMC电影,https://tv.iill.top/litv/4gtv-4gtv017
 嘉佳卡通,http://gslbmgsplive.miguvideo.com/wd_r1/2018/nfmedia/jjkt/1000/index.m3u8?msisdn=20251127220618eb226551c18745ab8d3f451784535dd2&mdspid=&spid=699054&netType=0&sid=2206172388&pid=2028597139&timestamp=20251127220618&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=614952364&ParentNodeID=-99&assertID=2206172388&client_ip=218.28.233.106&SecurityKey=20251127220618&promotionId=&mvid=2206172388&mcid=500020&playurlVersion=ZQ-A1-8.11.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=963eb46588a11cce579fb324951422ef&ddCalcu=f9e6e2322e44b014569548283ab1f19c7c5e
 嘉佳卡通,https://iptv.catvod.com/live.php?id=%E5%98%89%E4%BD%B3%E5%8D%A1%E9%80%9A
 嘉佳卡通,https://mgev.188766.xyz/?migutoken=c802218ef6d0ca5b6cea0915a71d3c62&id=gd_jjkt&type=sz
+嘉佳卡通,https://hk.188766.xyz/?migutoken=4febbba4a45ecd961d6a25ec043bbf17&id=gd_jjkt&type=sz
 金鹰卡通,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/3221225653/2.m3u8
 金鹰卡通,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225744/index.m3u8
 金鹰卡通,http://[2409:8087:5e08:24::2]:6610/000000001000/5000000006000040024/index.m3u8?channel-id=bestzb&Contentid=5000000006000040024&livemode=1&stbId=3
@@ -2655,5 +2656,6 @@ AMC电影,https://tv.iill.top/litv/4gtv-4gtv017
 广东体育,https://mgev.188766.xyz/?migutoken=38f5dd71e8cfd78d819c05fc52e5e6d8&id=gd_gdty&type=sz
 广东体育,https://migu.188766.xyz/?migutoken=2d63190e8a98cb56e7125ae5ae935893&id=hk_gdty&type=dy
 广东体育,https://iptv.catvod.com/live.php?id=%E5%B9%BF%E4%B8%9C%E4%BD%93%E8%82%B2
+广东体育,https://hk.188766.xyz/?migutoken=843e7d70eed4a9ab05e9e3069f2cf5db&id=gd_gdty&type=sz
 山东体育,http://livealone302.iqilu.com/iqilu/typd.m3u8
 山东体育,http://livealone.iqilu.com/iqilu/typdhjOF03kn.m3u8
