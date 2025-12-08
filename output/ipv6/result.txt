@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-12-07 18:25:00,http://119.91.33.253/migu.php?id=cctv1
+2025-12-08 18:27:51,http://119.91.33.253/migu.php?id=cctv1
 
 央视频道,#genre#
 CCTV1,http://119.91.33.253/migu.php?id=cctv1
@@ -790,7 +790,7 @@ CCTV16,https://tv.iill.top/x/cctv16
 CCTV16,https://mursor.ottiptv.cc/mcp/cctv16.m3u8?sign=57e5bc81b499ee38da8e36af109ee0f8&tm=1757357234
 CCTV16,https://zby.130519.xyz/PLTV/11/224/3221226120/index.m3u8
 CCTV16,https://shyd.695847.xyz/cms001/ch00000090990000001248/index.m3u8?IASHttpSessionId=RR4967720251014100028031761&ispcode=12
-CCTV16,https://iptv.catvod.com/live.php?id=CCTV16
+CCTV16,https://iptv.catvod.com/live.php?id=CCTV-16
 CCTV17,http://119.91.33.253/migu.php?id=cctv17
 CCTV17,http://ttkx.cc:1380/653哈哈/mg9.php?id=cctv17
 CCTV17,http://kxrj.site:64325/86/mg.php?id=cctv17
