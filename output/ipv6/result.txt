@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-12-09 18:30:40,http://119.91.33.253/migu.php?id=cctv1
+2025-12-10 18:28:07,http://119.91.33.253/migu.php?id=cctv1
 
 央视频道,#genre#
 CCTV1,http://119.91.33.253/migu.php?id=cctv1
@@ -2422,6 +2422,7 @@ AMC电影,https://tv.iill.top/litv/4gtv-4gtv017
 经典电影,https://yylunbo.ottiptv.cc/yy/1414812324
 重温经典,http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
 重温经典,http://cdn3.132.us.kg/live/cwjd/stream.m3u8
+重温经典,https://other.ottiptv.cc/cwjd.m3u8
 星空卫视,http://iptv.huuc.edu.cn/hls/startv.m3u8
 龙华电影,https://tv.iill.top/litv/litv-longturn03
 龙华电影,https://cdn3.132.us.kg/live/lhdy/stream.m3u8
