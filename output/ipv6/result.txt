@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-01-01 18:27:32,http://119.91.33.253/migu.php?id=cctv1
+2026-01-02 18:27:28,http://119.91.33.253/migu.php?id=cctv1
 
 央视频道,#genre#
 CCTV1,http://119.91.33.253/migu.php?id=cctv1
@@ -800,7 +800,6 @@ CCTV17,http://211.101.234.24:866/aishang/migu.php/migu.php?id=cctv17
 CCTV17,http://nctv.top/IDOEPpiryt/migu.php?id=cctv17
 CCTV17,http://api.mytv666.top/api/migu.php?id=CCTV17农业农村&type=1&auth_key=6230e745cab794f673f0d639d688ba8fea822ae2fdbc7fc764554276357715ae&t=1746202402&session=1015604b8e4ebb3e784ae1e6158f4b36
 CCTV17,http://bxtv.3a.ink/migu.php?id=cctv17
-CCTV17,http://8.138.7.223/tv/mgitv.php?id=80
 CCTV17,http://[2409:8087:1:20:20::29]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226442/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EtihRNVe_x2y1Lgi_XWYeNw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOl8OnsD1vPD0mhNmo98J3J%2CEND
 CCTV17,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/1.m3u8?icpid=88888888&from=1&hms_devid=1012&vqe=3
 CCTV17,http://[2409:8087:1a01:df::4025]:80/TVOD/88888888/224/3221225708/main.m3u8
@@ -841,6 +840,7 @@ CCTV17,http://z.b.bkpcp.top/m.php?id=cctv17
 CCTV17,http://gslbmgsplive.miguvideo.com/migu/kailu/20200324/cctv17hd/50/index.m3u8?msisdn=20251206040222b70111e95fa44c2a989fbd5bfe8166be&mdspid=&spid=699004&netType=0&sid=5501083631&pid=2028597139&timestamp=20251206040222&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=673168256&ParentNodeID=-99&assertID=5501083631&client_ip=218.28.233.106&SecurityKey=20251206040222&promotionId=&mvid=5102910396&mcid=500020&playurlVersion=WX-A1-8.11.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=e3453ac8540e95c30bb28d45ebaec06b&ddCalcu=be63v04ac5ae3aaabce85544d08e29b5bc03&sv=10004&ct=android
 CCTV17,https://jzb.wwkejishe.top/?id=594
 CCTV17,https://iptv.catvod.com/live.php?id=CCTV-17%20%E5%86%9C%E4%B8%9A%E5%86%9C%E6%9D%91
+CCTV17,https://shyd.695847.xyz/cms001/ch00000090990000001241/index.m3u8?IASHttpSessionId=RR4967720251014100028031761&ispcode=12
 
 卫视频道,#genre#
 安徽卫视,http://nctv.top/IDOEPpiryt/migu.php?id=ahws
